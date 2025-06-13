@@ -1,0 +1,379 @@
+00:00 the SAS industry is booming with
+00:02 revenues projected to hit over $200
+00:05 billion by 2025 the future it's in
+00:08 businesses with reoccurring revenue and
+00:10 scalable potential AKA SAS companies SAS
+00:14 stands for software as a service it's a
+00:16 cloud-based model where users access
+00:18 software over the internet without
+00:19 needing to download it the best part
+00:21 about creating a SAS company is that you
+00:23 can build the product once and you can
+00:25 sell it forever it's a very attractive
+00:27 model for entrepreneurs plus it can be
+00:29 run remotely you can even run your
+00:31 business from the Bahamas if you want to
+00:33 I know that I have way too many
+00:35 subscriptions to SAS companies because
+00:36 it's so easy to sign up that I almost
+00:38 forgot that I did by the end of this
+00:40 video you will know the steps that you
+00:41 need to take to launch your own SAS
+00:43 company and create a reoccurring and
+00:46 consistent income stream I'm not just
+00:48 going to show you how to build a
+00:49 business but also how to validate it
+00:51 Market it and scale
+00:55 it SAS companies have a unique advantage
+00:58 in the marketplace with reoccurring
+01:00 Revenue scalability Global reach so how
+01:03 do you make sure that there are people
+01:05 out there willing to spend money on your
+01:07 product first you need to do market
+01:10 research the most important part of any
+01:12 business is making sure that there is a
+01:14 market for it which means that people
+01:15 are already spending their money on this
+01:17 thing the first two questions you must
+01:19 answer before any other question what
+01:22 problem is your SAS product solving for
+01:23 people and who are you solving it for go
+01:27 on Google and start researching your
+01:29 competition the market size and gather
+01:31 all the data that you can about your
+01:33 industry such as market growth who
+01:35 spends the most money on your kind of
+01:36 SAS software and what are the emerging
+01:38 Trends in the industry you can also use
+01:40 a really great software called Frederick
+01:42 AI for this rather than wasting
+01:44 thousands of dollars building out a
+01:46 product before you even have a customer
+01:48 base first build a prototype an easy way
+01:51 to do this is by building a wireframe
+01:53 you can draw one with pen and pencil or
+01:55 you can use programs like balsamic or
+01:57 figma to make one it is really important
+01:59 to know what kind of interface design
+02:01 you want when you start working with
+02:03 developers so a wireframe is essential
+02:06 guys this is where your creative genius
+02:07 gets to come out that's it Patrick your
+02:10 Genius is showing where now this tip is
+02:13 going to save you from pouring money
+02:15 down the drain it is the number one
+02:17 thing that most businesses get wrong you
+02:20 need to validate your business idea the
+02:22 moment someone pays you is the moment
+02:24 you officially have a business method
+02:26 one you can start a wait list to get
+02:28 users to sign up before you build the
+02:30 app you can incentivize people to share
+02:32 the weight list by giving them points or
+02:34 discounts to your software so how can
+02:36 you create a weight list you can
+02:37 actually create a weight list with apps
+02:39 such as weight. Le viral loops and
+02:41 Shopify forms or you can even use Google
+02:44 forms if it's easier for you but here's
+02:46 the best way to validate your idea
+02:48 create an early adopter program offer
+02:50 participants a chance to invest in your
+02:52 software by purchasing a license at a
+02:55 discount for the first year if done
+02:57 successfully this will prove that people
+02:59 don't just like your product they're
+03:01 willing to pay for it name the program
+03:03 and provide exclusive benefits such as a
+03:06 verified status on the platform or
+03:08 involvement in feature creation remember
+03:10 even if people say they like the idea if
+03:13 people don't pay they're unlikely to
+03:14 spend their money when it's launched I
+03:16 recently listened to an interview with
+03:18 Daniel Priestley who at the age of 21
+03:20 launched his first company it reached
+03:22 $10 million in Revenue within 3 years he
+03:26 says the most important part of starting
+03:28 any company is validating the idea
+03:30 before spending a lot of money plus this
+03:32 looks great to investors or future
+03:34 Partners okay what do you do once your
+03:36 idea has been validated you can create
+03:38 something called an MVP what is an MVP
+03:41 an MVP is a minimum viable product you
+03:44 can create an MVP with minimal features
+03:46 to show what your app or software will
+03:47 be like you can create this using
+03:49 programs like figma bubble Shopify or
+03:53 Glide here are a few examples of nvps
+03:56 that big Brands started with buffer the
+03:58 social media toolkit for small
+03:60 businesses first launched with a simple
+04:02 landing page just explaining the concept
+04:05 of scheduling social media posts zappier
+04:07 the tool that integrates all of your web
+04:09 apps began is a manual process where the
+04:12 founder literally manually connected
+04:14 apps behind the scenes crazy I know the
+04:17 founders of Airbnb listed their own
+04:20 apartment on a simple website to test if
+04:22 someone would be willing to pay to stay
+04:24 in someone else's home so if you're
+04:25 looking to make a website for your nvp
+04:27 I've actually linked a free Shopify
+04:29 trial down below now the much asked
+04:31 question how should you price your
+04:33 product here are some potential pricing
+04:35 models to consider for your SAS product
+04:37 before you think of your model I would
+04:39 research what other SAS products in your
+04:41 space are charging this way you can get
+04:43 an idea of the market value you also
+04:45 want to consider if you have any monthly
+04:47 cost to run your business make sure your
+04:50 price reflects what you would need in
+04:51 order to pay off your initial investment
+04:53 within the next few years or months and
+04:56 to cover your monthly costs now let's
+04:58 talk about the different pricing models
+04:60 first is subscription based pricing this
+05:02 is where customers pay a reoccurring
+05:04 monthly or annual fee to get access to
+05:05 the product companies such as Netflix
+05:07 Shopify and Spotify all do this very
+05:10 well the premium model offer a basic
+05:12 version of the product for free and then
+05:14 charge for premium features cap cut and
+05:17 Dropbox both use this model usage based
+05:19 pricing this is where customers pay
+05:21 based on how much they actually use the
+05:23 product stripe uses this model flat rate
+05:25 pricing customers pay one price to get
+05:28 access to all of the features notion and
+05:30 Adobe Express do this per user pricing
+05:33 you can charge customers based on how
+05:35 many users there are in their account
+05:37 slack and zoom use this model there are
+05:39 many more options but these are all
+05:42 great as Patrick Campell the founder of
+05:44 profit well says a great pricing
+05:46 strategy doesn't just maximize Revenue
+05:48 it maximizes your customers success the
+05:51 big question how will your potential
+05:53 customers find you or even know that you
+05:55 exist and how are you going to make
+05:57 money well marketing will will be your
+06:00 best friend in this process here are my
+06:02 biggest recommendations when it comes to
+06:04 marketing and selling your products the
+06:06 nicest thing about SAS products is that
+06:07 there is no shipping involved so anybody
+06:09 in the world can access your products
+06:11 immediately at any time first partner
+06:14 with any key people of influence in your
+06:16 field influencers thought leaders
+06:18 businesses and groups and give them free
+06:21 access to your platform in exchange for
+06:22 them to share it if they like it you can
+06:24 also use affiliate marketing and give
+06:26 influencers a percent of each referral
+06:28 that signs up you want people to
+06:30 associate your brand with people they
+06:32 trust and respect plus you're going to
+06:34 reach a whole new audience this way you
+06:36 can use chat GPT or Google Gemini to
+06:38 help you find these people and you can
+06:40 also use softwares such as LinkedIn
+06:42 sales Navigator or other email finder
+06:44 tools like Apollo that help you get the
+06:46 contact of the exact people you want
+06:48 lastly Shopify collabs is also a great
+06:51 place to find Affiliates next run paid
+06:53 ads chances are a lot of people who need
+06:56 your product are hanging out on social
+06:58 media and you could Target them to sell
+06:59 your product through cgc ugc or just ad
+07:02 creatives in general to learn more I
+07:05 actually have a video in the description
+07:06 about Tik Tok ads and Facebook ads so go
+07:09 watch those if you need a little extra
+07:11 help next offer a free trial for new
+07:13 users so that they can test out your app
+07:15 and once they love it give you their
+07:17 money create educational content on
+07:19 social media focused on your product and
+07:22 build a community around it make sure to
+07:24 give as much value as you can next put
+07:27 good reviews and customer success
+07:29 stories all over your front page people
+07:32 Trust reviews you can also add your app
+07:34 or software to the Shopify app store if
+07:37 your SAS software serves businesses now
+07:39 what will you need to create a SAS
+07:41 product you will need to find a
+07:43 developer to build out the software and
+07:45 a UI or ux designer for your interface
+07:48 you may potentially need a devops
+07:50 engineer product managers and customer
+07:52 service Representatives you can actually
+07:54 find the right people for this on
+07:56 platforms such as topt who actually have
+07:59 the top 3% of talent wellfound which is
+08:02 made for startups or gun.io specifically
+08:05 made to find software talent for sales
+08:08 you can hire a sales team on a
+08:09 percentage basis or you can just do
+08:11 sales on your own you honestly do not
+08:13 need a big team to start you may need to
+08:16 do everything on your own in the
+08:17 beginning the biggest thing you need is
+08:19 to Outsource product development you can
+08:21 also partner with developers to get up
+08:23 and running but be careful who you give
+08:25 your Equity to believe it or not you can
+08:27 actually build SAS softwares with no no
+08:30 code apps such as bubble Glide or adalo
+08:33 so go give those ones a try the downside
+08:36 is that you don't fully own the software
+08:38 because it is run on their platform so
+08:40 if something happens to them you may not
+08:42 have a software anymore here are a few
+08:44 more AI tools to help you you can build
+08:46 an app on Firebase you can use maxio for
+08:49 billing and lastly you can use full
+08:52 story for Behavioral data what is the
+08:54 best way to keep customers happy make
+08:57 sure to provide ongoing customer support
+08:59 always always keep your software up to
+09:01 date and iron out any bugs in the system
+09:03 you want to make sure your product is
+09:05 actually solving your customer's problem
+09:06 you will also want to Monitor and
+09:08 respond to customer feedback the goal is
+09:10 to keep people on the platform for as
+09:12 long as you can we always want to be
+09:14 thinking about the future of our
+09:16 business you want to make sure that your
+09:17 processes are scalable so here are some
+09:20 ways you can scale your business the
+09:22 whole point of scaling is doing more of
+09:24 what is working so use something called
+09:26 the 8020 rule the 8020 rule states that
+09:29 80% of your results come from 20% of
+09:32 what you do and 20% of your results come
+09:35 from 80% of what you do so narrow down
+09:37 what's actually working for you and do
+09:39 more of it for example if you're getting
+09:41 most of your customers from ads put more
+09:43 money into pushing ads if most of your
+09:46 revenue is coming from Paid feature
+09:47 upgrades build more of those for
+09:49 customers to buy you get the gist here
+09:51 are a few standard things you can do to
+09:53 scale once you have customer data refine
+09:56 your Target customer and retarget them
+09:58 with ads you can also upsell your
+10:00 customers solve the problems they face
+10:02 before during and after using your
+10:05 products and then charge them for it you
+10:07 want to expand your market and start
+10:09 selling to new locations or even adapt
+10:11 your product to meet the needs of
+10:13 adjacent Industries you can also build a
+10:15 sales team around your product or even
+10:18 automate your current processes another
+10:20 thing you can do is raise additional
+10:22 funding to pour into your business but
+10:25 most importantly pour your money into
+10:27 the places where money is already
+10:28 pouring out for you now I want to hear
+10:30 from you guys what SAS products are you
+10:33 currently excited about comment them
+10:35 down below look no one is going to
+10:37 become an entrepreneur without facing
+10:39 some challenges these are the common
+10:41 challenges you will likely face in the
+10:43 SAS industry but you've got this guys
+10:45 Rome was not built in a day okay first
+10:48 is churn rates a churn rate is the
+10:50 percentage of customers that stop using
+10:52 your services within a given time frame
+10:54 turn rate percent equals the total
+10:56 number of customers lost during a period
+10:58 of time divided by total number of
+11:00 customers at the start of the period and
+11:02 then you times it by 100 you now have
+11:04 your turn rate percent for example if a
+11:07 company starts with a th000 customers at
+11:08 the beginning of the month and loses 50
+11:11 their turn rate is 5% just so you know
+11:13 the typical SAS turn rate is 5% so if
+11:17 customers are running away a little too
+11:19 fast and you have a higher turn rate
+11:21 make sure to check in on what might be
+11:23 causing it and improve those areas you
+11:25 can also run a survey to ask people why
+11:28 they left competition there will always
+11:30 be competitors in the ring but that's
+11:32 kind of what makes life fun it's a
+11:34 challenge other competitors May lower
+11:36 their prices steal your features and
+11:38 improve on them or even steal your
+11:40 customers so pay attention to what your
+11:42 customers are asking for and always keep
+11:44 your features up to date this way you
+11:46 can stand out in a saturated Market
+11:48 let's talk about the future of SAS there
+11:51 are a lot of new trends in the SAS space
+11:53 the biggest one we all know of is AI but
+11:56 there's a lot of other cool products
+11:57 like data as a service platform as a
+11:60 service and Market consolidation big
+12:03 companies are actually acquiring smaller
+12:05 companies in their space so it could be
+12:07 a good strategy to build a SAS company
+12:09 and then sell it to a bigger player
+12:11 another trend is micro SAS companies
+12:13 these are operating on a much smaller
+12:15 scale the last one I will mention is
+12:17 white label SAS this is where you can
+12:19 purchase unbranded SAS software and just
+12:22 put your brand on it anybody can become
+12:24 a successful entrepreneur it is not the
+12:26 smartest people in the room who do it
+12:28 but just the ones who believe even
+12:30 themselves enough are willing to learn
+12:31 and take action you now know how to
+12:34 start a SAS company a little Pro tip
+12:37 before you go the biggest thing you can
+12:39 work on as an entrepreneur is your
+12:41 mindset everything you do stems from
+12:43 your belief system so make sure you're
+12:45 feeding your brain with thought food
+12:47 that fuels your entrepreneurial Journey
+12:49 it will not be easy you're probably
+12:51 going to be challenged more than you
+12:53 ever have been but there's a quote that
+12:55 I really resonate with being an
+12:57 entrepreneur means doing the known work
+12:59 for the unknown outcome you don't know
+13:01 what your results will be until you try
+13:04 but the best thing you can do is take
+13:06 action and do the work you know what you
+13:07 need to do the other most important
+13:09 thing is speed make sure you're taking
+13:11 action quickly ideas can ruminate in our
+13:14 heads for years and never make it out of
+13:16 our minds so go get out there and build
+13:18 a killer sass product I cannot wait to
+13:21 see what you guys create I'm Chris
+13:22 mccollins thank you so much for watching
+13:24 this video if you found this helpful
+13:26 please let me know in the comments down
+13:28 below and give this video a like and if
+13:30 you want to get access to a bunch of
+13:31 free resources for all things business
+13:33 just subscribe to our channel for weekly
+13:35 videos bye guys
+13:39 [Music]
