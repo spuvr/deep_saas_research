@@ -1,0 +1,257 @@
+00:00 Another day, another startup. Recently,
+00:03 I moved to Malaysia and from there, I've
+00:05 pretty much been spending most of my
+00:07 time coding my latest project. And it's
+00:09 been super fun hacking away at something
+00:11 new again. And luckily, I've been
+00:12 documenting the whole journey from
+00:14 coming up with the app idea to building
+00:16 the app to getting that first paying
+00:18 customer. In this video, I'll show you
+00:19 every step of the process so you get an
+00:21 idea of what it takes to build and ship
+00:24 a profitable app from scratch completely
+00:26 solo. And feel free to stick around
+00:28 until the end to see how much money my
+00:30 app actually made. My app idea is just a
+00:32 simple tool that allows me to download
+00:34 video transcripts in bulk from YouTube
+00:36 channels or playlists. And you're
+00:38 probably asking, why do I want a tool
+00:40 like this? Well, it's no secret that
+00:42 YouTube is a gold mine of knowledge and
+00:44 information, but it's all trapped in
+00:46 video format. So, I'm building this tool
+00:48 for one main reason. I want a quick and
+00:50 easy way to extract all this gold from
+00:53 YouTube videos in text format so that I
+00:55 can feed this data directly into my own
+00:58 custom AI models to help me with
+00:60 everyday tasks like writing better
+01:01 YouTube scripts or creating custom AI
+01:04 agents to help me with my startups. Then
+01:06 after giving it some more thought, I
+01:08 know I'm not the only one who needs this
+01:10 tool. Pretty much anyone wanting to
+01:12 train their own custom AI models with
+01:14 YouTube content is facing the same
+01:15 problem. Manual transcript extraction
+01:17 from YouTube is painfully slow and
+01:19 tedious and currently there aren't many
+01:21 good solutions out there. So then I
+01:23 thought why not try building this tool
+01:24 myself. It solves a real problem I am
+01:27 facing and it could potentially be
+01:28 another stream of income if I execute
+01:30 and market it well to the other users
+01:32 who are facing the same problem. But
+01:34 before I start building, I need to do
+01:35 some quick market research to see what
+01:37 my competitors are offering. First,
+01:39 there's YouTube transcript.io IO, which
+01:41 offers bulk downloading but requires a
+01:43 subscription with a credit system. So, I
+01:45 can definitely see an opportunity for my
+01:47 app to compete by offering a simpler
+01:49 pricing model. And from looking at their
+01:51 landing page, they report having over
+01:53 350,000 users worldwide, which is a
+01:56 clear sign there's already real demand
+01:57 for this type of product. This gives me
+01:60 even more confidence in my idea and
+02:01 extra motivation to compete with them to
+02:04 take a slice of the market. There are
+02:05 also other sites like Note GBT and
+02:07 Tactic, but those sites only let you
+02:09 download transcripts. one video at a
+02:11 time. So, my approach will be simple.
+02:13 Create a tool with a simpler pricing
+02:15 model and a super clean interface that
+02:17 makes downloading YouTube transcripts in
+02:19 bulk cheap, quick, and painless. After
+02:22 scouting out my competitors, I was ready
+02:24 to jump into my code editor and start
+02:26 building. But before I could write a
+02:27 single line of code, I had to plan out
+02:29 what the first version of my app would
+02:31 be like. Otherwise, I'll either end up
+02:33 building something that's not useful, or
+02:35 I'll constantly get distracted adding
+02:37 shiny new features that don't actually
+02:39 solve the root problem. I prefer using
+02:40 the SLC framework to plan the early
+02:43 versions of my app. I'm not a fan of
+02:45 shipping MVPs that are buggy at launch
+02:47 and don't do the key one to two features
+02:49 they promise just for the sake of speed
+02:51 or shipping fast. The SLC framework
+02:53 stands for simple, lovable, and
+02:55 complete. And I think it's a much better
+02:57 approach than just building something
+02:58 that's minimum and viable. For my app to
+03:01 be simple, it needs to have one
+03:02 straightforward path to solving the root
+03:04 problem, and that's extracting YouTube
+03:06 transcripts in bulk. This means users
+03:09 should be able to complete the task in
+03:11 as few steps or clicks as possible.
+03:13 Nobody likes using a halfbaked product
+03:16 for version one. This means users should
+03:18 be able to download thousands of
+03:19 transcripts quickly. My app won't be
+03:21 feature- packed at launch, but it will
+03:23 be complete. This means users should be
+03:26 able to sign up, make a purchase, and
+03:28 immediately download transcripts. This
+03:30 is the leanest possible version of my
+03:31 app and the goal is to provide value
+03:33 from day one and then iterate the
+03:35 product based on real feedback from
+03:37 users. Like I've said before, I'm aiming
+03:39 to ship a version one of something
+03:41 simple instead of a version 0.1 of
+03:44 something complex. Now that I have a
+03:45 basic plan in place, it's time to commit
+03:47 and secure a domain for the app. I
+03:49 decided to go with YouTube
+03:51 transcripts.io as it's short,
+03:53 descriptive, SEOfriendly, and doesn't
+03:55 break the bank. Now that the domain was
+03:57 purchased, it was time to start
+03:59 building. For this project, I'm using
+04:01 the standard web text stack, React and
+04:03 Next.js for my front end and API,
+04:05 Superbase for my database and
+04:07 authentication, and Stripe to handle
+04:09 payments. Normally, setting up my
+04:11 projects would take me a few hours to
+04:13 get everything connected and working.
+04:15 But this time, I am using Tempo to help
+04:17 me with the setup process, and I was
+04:19 able to get my OR, database, and
+04:21 payments all working in under 10
+04:23 minutes. All I had to do was click
+04:25 through their guided setup, paste in a
+04:27 few API keys and within minutes I had a
+04:29 fully functioning project with all the
+04:31 annoying stuff correctly configured.
+04:33 Then I gave a simple prompt to Tempo
+04:36 describing what my app does. And then it
+04:38 just starts generating the project
+04:40 files, documenting project requirements,
+04:42 and building out the UI. And honestly,
+04:44 the first version of the landing page
+04:46 tempo generated was pretty impressive.
+04:48 It wasn't perfect, but it was a solid
+04:50 starting point with a clean layout and
+04:52 some decent copy. From there, I gave the
+04:54 AI a few more prompts to refine some
+04:56 sections, like updating the feature
+04:58 section to better highlight what the app
+05:00 actually does, adding a use cases
+05:02 section and an FAQ section to answer
+05:05 common questions or objections up front.
+05:07 Before we move on, let me give you a
+05:09 quick tour of the Tempo UI. The
+05:10 interface is split into three tabs:
+05:13 product, design, and code. In the
+05:15 product tab, you can write out your
+05:16 product requirements, features, and even
+05:18 create full user flow diagrams of your
+05:21 app. The most useful thing about this is
+05:23 that all this information gets fed
+05:25 directly to the AI as context, which
+05:27 reduces hallucinations massively. In the
+05:29 design tab, you can build out your UI
+05:31 just by clicking and dragging elements
+05:33 pretty much just like any other design
+05:35 tool like Figma or Web Flow, but it
+05:37 generates actual React code behind the
+05:39 scenes. They also support importing your
+05:41 custom Figma designs, so you can use
+05:43 them as a starting point and ask the AI
+05:46 to generate React code for you based on
+05:48 the designs. Finally, the code tab is
+05:50 where you can open and edit any file in
+05:52 your project just like you would in VS
+05:54 Code or cursor. It also integrates
+05:56 nicely with GitHub, so you can push your
+05:58 code directly to a repo and keep
+05:60 everything version controlled. With the
+06:01 initial setup all done, I push the code
+06:04 to GitHub and fired up Cursor so that I
+06:06 can start building out the core features
+06:07 of my app. So, enjoy this time-lapse of
+06:10 me hacking away over the next couple
+06:11 days whilst I get this app ready for
+06:13 launch.
+06:36 Oh, hey.
+07:10 Heat. Heat.
+07:43 After days of non-stop coding and
+07:45 testing, I think the app is finally
+07:46 ready. It's time to launch and get some
+07:49 users. My plan for the initial launch is
+07:51 pretty basic. I'll post on all of the
+07:53 typical launch platforms like Product
+07:55 Hunt, Hacker News, and Twitter to try my
+07:57 luck going viral, but I'm not banking on
+07:59 this too much. My tool is quite niche
+08:01 and solves a very specific problem. So
+08:04 there's really no point trying to appeal
+08:05 to a wider audience at this stage. And
+08:07 hot take, I don't think Product Hunt is
+08:09 actually a good platform to launch for
+08:11 most indie hackers. Unless you're making
+08:12 a product specifically targeted to other
+08:14 founders because the truth is regular
+08:17 customers aren't going to Product Hunt
+08:18 to find tools to solve their problems.
+08:20 It's usually just a bunch of other
+08:22 founders looking for a place to share
+08:24 their products. But you do get a nice
+08:26 backlink for SEO and a bump in traffic
+08:28 if you can rank highly. So, it's at
+08:30 least worth trying. That's why I'll be
+08:31 spending most of my time going directly
+08:33 to my ideal customers and building
+08:35 relationships with them first. This
+08:37 means finding niche subreddits and
+08:39 forums and sharing my launch there
+08:40 instead. So, how did the launch go and
+08:43 how much money has my app actually made?
+08:45 Well, I can tell you my app didn't blow
+08:47 up overnight. And I'm not going to lie,
+08:49 it was discouraging at first seeing my
+08:51 launch get less traction than I hoped.
+08:53 It's disappointing, but this won't be
+08:54 one of those videos where I launch my
+08:56 product and it magically goes viral. And
+08:58 honestly, I think sharing realistic
+08:60 launches like these can be more valuable
+09:02 than the overnight success stories
+09:04 because whilst they can be inspiring,
+09:05 they can also create unrealistic
+09:07 expectations and discourage you to keep
+09:10 going if you don't see immediate
+09:11 results. So, even though the launch
+09:13 wasn't what I hoped for, I'm not going
+09:15 to let it distract me from improving and
+09:16 growing my product until I can get it to
+09:18 a point where I'm satisfied and feel
+09:20 like there's nothing more I can do.
+09:22 Since the launch, I've managed to get 13
+09:24 user signups with six of them converting
+09:26 to actual paying customers. And so far,
+09:28 my app has earned over £200 since the
+09:31 launch. It's not some life-changing
+09:32 money, but at least it's proof that
+09:34 people are willing to pay for my
+09:36 product, even at its earliest stage. So,
+09:38 what's next? I have a bunch of ideas and
+09:40 improvements I want to make to this app
+09:42 already. And of course, I'll be
+09:43 documenting everything on this channel.
+09:45 So, if you want to see how I grow this
+09:46 app from these humble beginnings into
+09:48 something bigger, feel free to subscribe
+09:50 and I'll see you in the next
