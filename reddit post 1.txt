@@ -1,0 +1,667 @@
+https://www.reddit.com/r/SaaS/comments/1juns3r/7_brutal_truths_about_running_a_saas_that_nobody/
+:
+```
+{
+💔7 Brutal Truths About running a Saas That Nobody talks about ( after 3 failed Startups)
+Your First 100 Customers Will Come from Grunt Work, Not Virality
+
+Forget "build it and they will come." You’ll manually onboard users, beg for referrals, and send 1,000+ cold emails. "Distribution is the real product."
+
+Churn Never Dies—You Just Get Better at Hiding It. Even at 1MARR,550K/year. Fix: Build cancellation surveys into your product (e.g., "What hurt most? Price or features?").
+
+‘Free Plans’ Attract the Worst Customers Free users demand 10x support, convert at <1%, and scare away paying clients in community spaces. Better: Free trials with credit card gates.
+
+You’re Not Competing Against Other SaaS—You’re Competing Against Spreadsheets 80% of your prospects are "fine" with duct-taped Google Sheets. Pitch: "This will save you [X] hours/week" > "We’re better than [Competitor]."
+
+Your ‘Perfect’ Tech Stack Is Killing Your Runway React + Node + MongoDB + Kubernetes for an MVP? Congrats, you’ve built a resume—not a business. Truth: Start with no-code or boring tech (PHP, SQLite).
+
+Investors Care About Traction, Not Your ‘Disruptive’ Idea "But it’s like Uber for [X]!" → They’ve heard it 100x. Data beats vision: Show 10% MoM growth, even on $1K MRR.
+
+You’ll Fire Your First Hire Within 12 Months Early hires often lack the "figure it out" gene. Hack: Start with contractors, not full-timers.
+
+Question: Which truth hit you hardest? Or what’s one you’d add?
+
+
+Upvote
+116
+
+Downvote
+
+38
+Go to comments
+
+
+Share
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/Ok-Mango-7655 avatar
+Ok-Mango-7655
+•
+2mo ago
+I'm surprised 'free plans' would have such a low conversion. Wouldn't that be a good signal that you need to pivot your product?
+
+If something is free, and they don't want to pay afterward, that's a signal it's not offering the right value to them. I think 'free plans' could be useful if you added some contingent feedback form to them either mid-trial, or end-trial:
+
+"Get an extra 7days usage is you complete this form!"
+
+Then, you could solicit feedback such as "would you consider buying this product, why not"...
+
+
+
+Upvote
+11
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Hopeful-Hunter-1855 avatar
+Hopeful-Hunter-1855
+OP
+•
+2mo ago
+I don’t think its a signal to pivot my product, because most of users are looking for a “free” product to use it as “free” not to pay for it so they keep search for the best free product to use it (e.g Best free ai powered tools for editors) so if they found your mvp fit them they will never pay , if they found your mvp didnt fit them they will keep searching for another free product to fit them thats it, instead of that and that what worked for me a trial is a really a specific period to try the product to decide if you will pay for it or no and that what make the trial way better the free plan.
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+kimundu_gikiuma
+•
+2mo ago
+It's actually true. I have an app with in-app purchases, and users who've never bought anything are always hogging the support lines, then go ahead and leave negative reviews discouraging would be premium users. If you avoid them, please do
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+
+[deleted]
+•
+2mo ago
+u/blizkreeg avatar
+blizkreeg
+•
+2mo ago
+•
+Edited 2mo ago
+1 is so true. You’re hand holding every single early customer pulling them into your product.
+
+
+Upvote
+8
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+NextAge1684
+•
+2mo ago
+Free plan actually works if one limits the features correctly. Major features should exist in paid plan only.
+
+We should use free plan customers traction to onboard enterprise customers. But as OP told, should not keep hopes on free plan users convert to paid users.
+
+But free plan actually helps in a way while pitching to enterprise customers
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+dev_life
+•
+2mo ago
+Hang on, I’m their first hire! F#%%
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Hopeful-Hunter-1855 avatar
+Hopeful-Hunter-1855
+OP
+•
+2mo ago
+Proof yourself then
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+
+[deleted]
+•
+2mo ago
+u/dhalls12 avatar
+dhalls12
+•
+2mo ago
+I would add: don’t spend too much time adding feature after feature. Make it good enough, then make money, then revisit adding features/fixing things after getting customer feedback. It’s easy to continue making it prettier or better but the truth is you’re just wasting time scared to take the next step in distributing and marketing it. Made this mistake with my first attempted company. 
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Hopeful-Hunter-1855 avatar
+Hopeful-Hunter-1855
+OP
+•
+2mo ago
+Interesting advice can we discuss more?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/dhalls12 avatar
+dhalls12
+•
+2mo ago
+Yes the trap I fell into building my first company was continuing to make the website prettier and continuing to add features. I essentially hid behind a to-do list of these things scared to go find customers. Start making money asap and then add the features customers want.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Hopeful-Hunter-1855 avatar
+Hopeful-Hunter-1855
+OP
+•
+2mo ago
+How can i know that i added enough features for the customers and any other thing is not necessary
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/dhalls12 avatar
+dhalls12
+•
+2mo ago
+Market research, and does it solve the problem you were trying to solve. If it checks most of users boxes of what they need, they will buy. After you have some revenue coming in, revisit the product and add the features your current customers want or you think will be a great addition. I would do a search or start a new thread about how to do market research at whatever stage in your business you are currently at.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/SEOAUTOPILOT avatar
+SEOAUTOPILOT
+•
+2mo ago
+Yes there is lot of pain but it pays once evertlhthing is setup
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/GrowthSonic avatar
+GrowthSonic
+•
+2mo ago
+This is helpful as I have just started building Lessgo.ai 😊
+
+
+
+Upvote
+0
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Hopeful-Hunter-1855 avatar
+Hopeful-Hunter-1855
+OP
+•
+2mo ago
+I’d love to hear more about your business idea. Could you walk me through the key details so we can discuss it further?
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/GrowthSonic avatar
+GrowthSonic
+•
+2mo ago
+It is AI-powered copy-focused landing page builder for founders and indie hackers.
+
+Here’s how it works: You drop one simple sentence about what you’ve built. That’s it.
+
+Our engine goes to work — asking real intuitive questions, pulling market angles, diaing in positioning.
+
+It builds a full page for you — layout, copy, offer framing, structure — the whole thing.
+
+You tweak if you want. Publish when you’re ready. Start converting.
+
+P.S. - I am new on reddit. It seems I got a downvote on my previous reply. Do you think I broke any rule or something? Asking just to get better sense of the do’s and donts”
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Hopeful-Hunter-1855 avatar
+Hopeful-Hunter-1855
+OP
+•
+2mo ago
+You didnt broke rules people here just hate when you market you product , dm me let discuss more about your product
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+aeonixx
+•
+2mo ago
+AI generated slop article. 
+
+Do you have any original, personal experiences or insights?
+
+
+
+Upvote
+0
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Hopeful-Hunter-1855 avatar
+Hopeful-Hunter-1855
+OP
+•
+2mo ago
+I am really understanding that you think that is not my personal experience because of how perfect the post , i just used the ai to perfect the post and write an catchy title so the users can learn from my post since English is not my main language so some ai help not bad
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+aeonixx
+•
+2mo ago
+Thank you for explaining. I can see why you would do that. But I would much rather read broken, unformatted text that contains someone's own thoughts, than this: the post looks like equal parts AI slop, meaningless marketing buzzwords ("traction"/"disruption"), and tech jargon. MoM, MRR, MARR? I can figure out MoM, but what do they others mean?
+
+Point 4, that sounds really weird, Is every SaaS really replaceable with a spreadsheet (for its main functionality)?
+
+The point 7 seems incredibly weird, did that happen to you? Have you seen it happen in your environment? 
+
+The reason AI text stops me (and many others) from actually reading the post, is that the slop produced by AI is all empty. It uses cool words, fancy formatting, smart words - but fundamentally it tends to not have much to do with reality. There is no real content, only perfect form.
+
+You are MUCH better off just using Google Translate and then having AI fix any grammar issues. Or skip Translate, just have the AI translate it to be as close to your original text as possible.
+
+The result: much more interesting text, no more AI-isms (Like the Super Weird Caps LLMs Love to Do).
+
+And people will actually want to read what you wrote, instead of being annoyed like when you randomly get an unskippable video ad while trying to figure out something for school/uni/work on YouTube.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Hopeful-Hunter-1855 avatar
+Hopeful-Hunter-1855
+OP
+•
+2mo ago
+I like the idea of translating then ai fix my grammer , i really appreciate your advice
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/BreathFun2646 avatar
+BreathFun2646
+•
+2mo ago
+I am currently building my SaaS and was thinking about offering a free plan instead of free trial. The reason behind it is that I, as a user, usually start using a product if it has a free plan and only pay if I see value in the additional features. When I see a trial with a credit card requirement, I tend not to even try it.
+
+Am I the only one with this approach as a user? Is it really generally better to offer a trial instead?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Key-Boat-7519 avatar
+Key-Boat-7519
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Dude, the struggle is real. It's like picking between watching a movie on Netflix or committing to a 7-day gym trial just to hit the vending machine afterward. From my experience, free plans can indeed act like that free sample at Costco-enough to get you hooked. But yeah, they can also crowd the place with tire-kickers. When I was deciding, I tried looking into platforms like Notion for structure and Pulse for Reddit to see which conversations folks found valuable. It’s like choosing the pancake mix that doesn’t have you cooking for squirrels too.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+Rare_Objective_9212
+•
+2mo ago
+Very useful info..have one question 👉 what about a gift for the first 50 users for example,6 months of using your app for free???
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+
+[deleted]
+•
+2mo ago
+u/Mediocre-Scheme4602 avatar
+Mediocre-Scheme4602
+•
+2mo ago
+Each year, thousands of SaaS startups get funded at pre-seed, seed, and Series A across. But nearly 70% of them never make it to Series A, or quietly shut down.
+
+The reasons aren’t new Lack of market need. Poor GTM execution. Misalignment between product and buyer.
+
+Most founders can’t explain what they’ve built. Not clearly. Not consistently. By then, they’re already pitching. Running outbound. Shipping features. Burning cash. There’s still this idea that marketing = distribution (it is..but not entirely).
+
+But early-stage marketing is actually translation. It’s how you make your product legible to the people who weren’t in the room when it was built.
+
+34% of startups fail because they never hit product-market fit.
+
+22% fail due to poor marketing.
+
+You can’t scale what isn’t understood. Not with PLG. Not with sales. Not with funding.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+Humanless_ai
+•
+2mo ago
+Lots of gems in here, although I disagree on the free plans!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Baremetrics avatar
+Baremetrics
+•
+2mo ago
+Oh man number 4. Spreadsheets are the ultimate comfort blanket for most SaaS users. The funny thing is when it comes to B2B selling, we often think we have to convince the buyer of our value but we neglect the change management it will require to shift the end users off spreadsheets. There is something to be said for iadvising on organisational change management strategies to ensure the clients end users are happy to use your product as well.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/sharyphil avatar
+sharyphil
+•
+2mo ago
+Praise Skeletor for these truths.
+}
+```
