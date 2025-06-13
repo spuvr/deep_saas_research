@@ -1,0 +1,175 @@
+00:00 all I've got to do is write a launch
+00:02 email this is going to send to
+00:06 4,588
+00:07 people it's going it's the launch email
+00:11 it's been over 12 hours so I'm going to
+00:14 see whether anyone else has bought this
+00:16 product 1 month ago I launched a SAS I
+00:20 thought everything was in place to make
+00:22 the project a
+00:24 [Music]
+00:27 success then this happened so I'm going
+00:29 to see whether anyone else has bought
+00:31 this product nobody else has that was an
+00:35 experiment and sometimes your
+00:36 experiments don't go as you expect in
+00:39 this video I share how I picked a
+00:41 product what marketing strategy I used
+00:43 on launch day and what I've done since
+00:46 then to try to salvage the situation
+00:48 here's my failed SAS story follow along
+00:51 to learn from my
+00:52 mistakes if you made a $1,000 on your
+00:55 next SAS launch how would that feel well
+00:57 that was my success criteria for this
+00:59 project and if I could reach it I would
+01:01 get one step closer to earning an
+01:04 independent income online so what was my
+01:06 plan to make $1,000 well my idea was to
+01:10 take a product that I'd seen someone
+01:12 else launch successfully and put my own
+01:14 spin on it you see a few months ago I
+01:16 was thinking about a product made by
+01:19 this Indie hacking influencer that for
+01:21 him did phenomenally well it's what's
+01:23 called a SAS bootstrap project a start a
+01:27 project with payments login and lots of
+01:29 other functions ality for you to add
+01:31 your own custom Logic on top of so my
+01:34 idea was to do something similar except
+01:36 using my own Tech stack and automating a
+01:39 lot more of the setup process to make it
+01:41 as fast as possible for a developer to
+01:43 begin building a web app I did a quick
+01:45 calculation if I can sell the product
+01:47 for $50 I'd only need 20 sales in order
+01:50 to reach my $1,000 Target well that
+01:53 would be easy I told myself I was
+01:55 confident that I could reach people here
+01:57 on YouTube so while I began building
+01:59 this bootstrap project which I called
+02:01 Dev Launchpad I put up a wait list and
+02:04 linked to it in every single YouTube
+02:06 video I published I figured that I'd
+02:08 probably need to get about 200 people
+02:10 onto that list if I could convert just
+02:12 10% of those to buyers that would be the
+02:15 20 sales I needed to reach my target so
+02:18 as I developed my product and as launch
+02:20 day approached more and more people got
+02:23 added to my weit list and I had a
+02:25 profound sense that I cracked this whole
+02:27 online business thing well that wasn't
+02:29 to be the case
+02:31 1 month ago on the launch day I hadn't
+02:34 reached my target of 200 people on my
+02:36 weight list only 74 but here's the thing
+02:39 I had over 4,000 other people on another
+02:42 email list that I've been growing over
+02:44 the years so as I drafted the launch
+02:46 email and sent it out I was still
+02:49 feeling pretty
+02:50 confident woke up the next morning and
+02:53 I've made one sale now don't get me
+02:55 wrong one sale is better than no sales
+02:58 but I realized at this rate I would
+02:60 never reach my target there was
+03:01 obviously something very wrong two
+03:03 things immediately came to mind I'm not
+03:05 getting enough eyeballs on my product or
+03:08 my landing page just isn't converting
+03:10 visitors to customers so over the next
+03:13 few weeks I tried to fix what I thought
+03:16 might be a landing page Problem by
+03:18 adding tiered pricing which I had heard
+03:20 before increases conversion that didn't
+03:22 work so I decided to completely rewrite
+03:25 my landing page using this template I
+03:28 took from Dan Co by describing the
+03:30 problem that the customer has the
+03:32 transformation that I've experienced
+03:34 myself and how my product could help
+03:36 them achieve the same thing I was
+03:38 confident that this V2 landing page
+03:40 would start bringing in the sales but it
+03:42 didn't solve the problem I even tried
+03:44 changing the color scheme but nothing
+03:46 seemed to work after all this work on
+03:49 trying to improve the conversion of my
+03:50 landing page I turned to increasing the
+03:53 traffic every video I published onto
+03:55 YouTube I added a link to my Dev
+03:58 Launchpad and with over 40 videos I've
+04:00 now driven 3,600 people to my landing
+04:03 page and I have picked up a couple more
+04:05 sales four sales total but that's still
+04:08 only a 0.1% conversion rate at that
+04:12 point I had to admit to myself that
+04:14 maybe it's not a landing page problem
+04:16 maybe it's not a traffic problem maybe
+04:18 it's a problem with my product
+04:20 itself having worked on this bootstrap
+04:23 project for a couple of months now I
+04:25 feel like this endless tweaking could go
+04:27 on forever but for me personally the way
+04:29 I learn best is by doing something again
+04:31 and again and improving a little bit
+04:33 every time so even though I've only made
+04:36 $236 from this product these are three
+04:39 valuable lessons I've learned that I'm
+04:41 going to apply to the next one number
+04:43 one solve a problem that somebody has
+04:45 not you but somebody else that you've
+04:47 got solid evidence that they actually
+04:49 have a problem you can solve my Dev
+04:52 Launchpad solved a problem because it
+04:53 meant I saved time with all the setup
+04:56 for a new web app launch but it was an
+04:58 assumption that others would have that
+04:60 problem too for my next web app I want
+05:02 to validate there are at least three
+05:04 people out there that have the problem
+05:06 before I even write one line of code to
+05:08 solve it following on from that number
+05:10 two is to get customers in advance of
+05:13 building the product I assumed that if I
+05:15 could get people onto a weit List 10% of
+05:17 them might buy but my actual conversion
+05:20 rate was more like 1 and a half% if I
+05:22 can get people to put cold hard cash
+05:25 down for my product in advance that
+05:27 signifies that they have the problem and
+05:29 they see value in the solution that I'm
+05:31 proposing number three is to get
+05:33 feedback from somebody else on my
+05:35 landing page the landing page is so
+05:37 important because it's the main place
+05:39 where you can communicate the value of
+05:41 your product I've gone for this
+05:43 particular angle which resonates with me
+05:45 about learning to create an independent
+05:47 income online but just because that's
+05:49 meaningful for me doesn't mean it will
+05:50 be for visitors to the site so for my
+05:53 next project I want to find someone to
+05:55 either help me craft the landing page or
+05:57 at least review it and considering how
+05:59 much payoff that could have I'd be
+06:01 willing to pay someone to help me with
+06:03 that so even though this SAS launch was
+06:05 a flop I've still learned some valuable
+06:06 nuggets of wisdom which is why rather
+06:08 than feel demoralized I'm still feeling
+06:11 motivated and a kind of Bring It On way
+06:13 because I know if I can improve by just
+06:15 one% after every failure all I need to
+06:18 do is increase the number of times I
+06:20 take a swing with the bat it's easy to
+06:22 make the mistake of assuming that your
+06:24 sass launch is always going to go to
+06:26 plan but if you take the approach that
+06:27 each one is a small experiment for you
+06:30 to test what works and what doesn't work
+06:32 then as long as you keep going success
+06:34 is going to be inevitable see you in the
+06:36 next one
