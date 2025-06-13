@@ -1,0 +1,692 @@
+00:00 I officially sold my app for $200,000.
+00:03 I got the money in my account,
+00:05 This is me, back in July 2024
+00:08 and this startup
+00:09 I sold,
+00:09 I created it in only one week
+00:11 and worked on it for less than a year.
+00:12 I documented the whole process
+00:14 from the moment I got the idea,
+00:15 found my first customers,
+00:16 up to the final sale.
+00:17 So if you’re ready
+00:18 take a seat and let's go back in time.
+00:20 Two years ago.
+00:21 *VHS rewind noise*
+00:23 So it's just me and my laptop.
+00:30 After selling my
+00:31 previous startup for $65,000,
+00:33 I took some time off to rest.
+00:35 The danger of running out of money
+00:36 in the next few months was gone.
+00:38 But since I sold
+00:39 my main source of income.
+00:41 I didn't have income anymore.
+00:42 So I couldn't stay like that
+00:43 and do nothing forever,
+00:44 or I would run out of money eventually.
+00:47 So it was time to get back to work.
+00:48 To create a new source of income.
+00:50 Now, you know the saying:
+00:52 If something is not broken, don't fix it.
+00:54 I just had to repeat exactly what I did
+00:56 with my previous startup.
+00:57 Find an idea,
+00:58 build it quickly and make money.
+01:02 My goal was to make a startup
+01:03 I could grow mainly
+01:04 using Facebook advertising.
+01:06 Since I have seven years of experience
+01:08 in advertising.
+01:08 Oh but, Facebook is dead.
+01:10 Only boomers use it
+01:11 I don't even go there anymore.
+01:21 Remember, it's not because
+01:23 you do something that everyone does.
+01:25 But why? Facebook ads?
+01:26 Simple
+01:27 ads on
+01:27 Facebook can reach a massive audience
+01:29 very quickly.
+01:30 And unlike Google Ads where you are
+01:32 limited by the number of people
+01:33 looking for specific keywords.
+01:35 Facebook ads
+01:36 let you reach
+01:37 pretty much anyone in the world.
+01:39 But there is one crucial requirement
+01:41 for this to work.
+01:42 if the audience is too small,
+01:43 or cannot clearly be identified.
+01:45 Facebook might have a hard time
+01:47 finding customers.
+01:48 With that in mind,
+01:49 it was just a matter
+01:50 of finding the right *idea*.
+01:51 / How do you pronounce idea? /
+01:53 With that in mind,
+01:53 it was just a matter
+01:54 of finding the right idea.
+01:60 I was trying to write something
+02:01 on the Google Docs
+02:02 when I noticed a transcription button.
+02:04 So I tried it and.
+02:08 Yep, that was shit.
+02:09 I tried multiple times,
+02:10 started to get frustrated,
+02:12 and was ready to give up.
+02:13 But then I realized.
+02:15 surely I wasn't the only one
+02:16 who was too lazy to type
+02:18 and would prefer to speak instead.
+02:19 Which means,
+02:21 that could be a startup idea.
+02:23 And perfect timing:
+02:24 Some new AI models for audio
+02:25 transcription were released
+02:27 a few months earlier,
+02:28 so I could just use that.
+02:29 And even better,
+02:30 this idea fits
+02:31 all the criteria of a good startup idea.
+02:33 It provides value
+02:34 because it helps do something faster.
+02:36 It has a large scale.
+02:37 Everyone want to write faster.
+02:38 I did have the technical skills to do it,
+02:40 and I had this solution with ads.
+02:42 So without waiting, I went to work.
+02:45 I set myself a deadline of one week
+02:46 to code the app. And after...
+02:48 Oooh one week? it's impossible.
+02:50 You need months to launch a startup.
+02:51 You're my friend. Are wrong.
+02:54 Now let's be real.
+02:55 Failure is a norm in startups.
+02:58 99% of
+02:59 new startup fail.
+03:03 So we are going to assume you idea.
+03:05 As good as it is,
+03:08 will fail.
+03:09 Now, if you knew, you will fail.
+03:11 Would you still spend
+03:12 four months working on it?
+03:16 When you launch a new startup,
+03:17 there is only one thing that matters:
+03:19 Figuring out as early as possible
+03:21 if people would be willing to pay for it.
+03:23 And having short deadlines...
+03:27 ...forces you to focus on the essential.
+03:29 until you have proof
+03:30 that people
+03:31 are willing to pay for your product.
+03:36 Nothing else matters.
+03:38 So make a first version
+03:40 with only the essential features.
+03:42 Then if it works, add more.
+03:44 Or simply said, don't fix bugs
+03:46 if there is no customers
+03:47 to experience them.
+03:49 So after a week of grinding,
+03:51 I had my first version ready
+03:53 and it was no time to find a name.
+03:55 Its website to make notes by talking.
+03:59 So I called it Talknotes.
+04:01 Yeah. Creativity was never my strength.
+04:04 Now I have a general rule
+04:05 of never spending more than what
+04:07 the project generates.
+04:08 So paid ads
+04:09 would have to wait a little bit
+04:10 until I got revenue first.
+04:12 But how can I generate
+04:13 revenue without ads then?
+04:15 Startup directories are websites
+04:18 that showcases new startups.
+04:19 People visiting
+04:20 those websites
+04:21 are what we call "early adopters".
+04:23 They actively search
+04:24 for new tech products
+04:25 to try them before everyone else.
+04:27 So when you have a new product
+04:28 that's a bit innovative,
+04:29 it's a great place to get started.
+04:31 So I spent two hours
+04:32 looking where
+04:33 similar startups were listed
+04:34 And added mine everywhere I could
+04:36 And it worked.
+04:37 I got a little bit of traffic
+04:38 from those directories,
+04:40 and even made $700 of sales
+04:42 in a couple of days.
+04:43 Sure, it's not a life changing amount,
+04:45 but it was just enough
+04:46 to show me this idea
+04:47 potential and to focus all in.
+04:49 However, after a few weeks,
+04:51 the sales slowed down
+04:52 and to the point
+04:53 where they stopped completely.
+04:55 So what happened?
+04:57 Well, you see a launch is an event.
+04:59 You will get a spike of traffic,
+05:01 but eventually it will die down.
+05:03 The only way to fix
+05:04 this is to have a long term
+05:06 distribution strategy like SEO, paid ads,
+05:09 direct outreach, etc..
+05:10 Or simply said, a way to get people
+05:13 visiting your website every day.
+05:14 Problem was,
+05:15 the website was still not generating
+05:17 enough revenue to reinvest in ads,
+05:19 and I wasn't really good
+05:20 with other distribution channels.
+05:22 So guess what I did?
+05:23 Well...
+05:24 Truth is, I had no idea what to do.
+05:27 And because of that, I got depressed
+05:29 and almost completely
+05:30 gave up on the project.
+05:31 And I feel that's something
+05:33 no one talks about on YouTube or online.
+05:35 Sometimes it just sucks
+05:37 and you will feel like shit.
+05:38 And unfortunately,
+05:40 that's just entrepreneurship.
+05:41 Not everyone will make it.
+05:44 At least one thing was clear.
+05:45 If I wanted this project to go anywhere,
+05:47 I had to figure out a way
+05:49 to get consistent revenues.
+05:50 The first thing I did
+05:52 was to switch to a subscription model
+05:54 where people pay every month
+05:55 to access and use the app.
+05:57 That would make revenue more predictable.
+05:59 To find new users.
+05:60 I tried different things.
+06:01 Like ranking
+06:01 higher on Google,
+06:03 sending direct email
+06:04 to the potential customers, and more.
+06:06 While I got some result from it,
+06:07 it was still very slow.
+06:08 But, I had one card I didn't used yet,
+06:11 and if you saw my previous video,
+06:12 you can probably guess what it is.
+06:15 Hey, Nico from the present here.
+06:16 Because.
+Yeah, I actually recorded this video
+06:18 six months ago.
+06:20 I just wanted to add a quick disclaimer.
+06:22 I'm going to talk about product Hunt,
+06:23 but lots of things
+06:24 changed with ProductHunt
+06:26 since this video was recorded.
+06:28 To keep it simple,
+06:29 You probably won't get featured
+06:31 But you still get a backlink (for SEO),
+06:33 so it's still worth it to launch there.
+06:36 But you probably won't get featured
+06:37 and get a big spike of traffic
+06:39 and all that.
+06:41 So yeah, just a quick disclaimer.
+06:43 Yeah. That's it. Back to the video.
+06:45 ProductHunt is a website
+06:47 where new tech products compete
+06:49 against each other
+06:49 every day to get upvotes.
+06:51 It's basically a startup directory,
+06:53 except it got
+06:54 millions of visitors per month
+06:56 and lots of journalists
+06:57 go there to write articles
+06:58 about new tech products.
+06:59 It's a great way
+07:00 to bring a bit of revenue
+07:02 and boost the morale on the short term,
+07:04 which in return helps
+07:05 you work on the project
+07:06 for the long term.
+07:07 So I listed my startup on Product Hunt.
+07:09 Got lots of upvotes,
+07:10 even got a “Product of the day” award
+07:12 and got lots of traffic from that.
+07:14 And thanks to the media coverage
+07:15 after the launch,
+07:16 the app quickly grow to $1500 of monthly
+07:19 recurring subscriptions (MRR).
+07:24 Since I now had some
+07:25 predictable revenue,
+07:27 I decided to start ads.
+07:28 And even if the result
+07:29 were not incredible at first,
+07:31 I still managed to get a few sales
+07:33 every day. The hardest was done.
+07:34 My startup was generating
+07:36 consistent revenue
+07:37 every month, and I could
+07:38 now try to scale it.
+07:39 Now, growing
+07:40 a startup is a lot of trial and error.
+07:43 You need to try things,
+07:44 see what works, and do more of that.
+07:46 But that takes a lot of work and energy.
+07:48 So I needed to focus.
+07:50 And I had the perfect solution for that.
+07:52 In May 2022,
+07:53 I locked myself in a hotel room
+07:55 for two months to learn how to code.
+07:57 This is what I call monk mode.
+07:59 The principle is simple.
+08:00 Find a place comfortable enough
+08:02 so you can stay inside for weeks.
+08:04 Organize your routines
+08:05 so you don't waste any time
+08:06 and grind all day.
+08:07 It's simple, but it worked for me.
+08:09 I went from zero to be able to code
+08:11 fully working websites
+08:13 in just two months.
+08:14 So it was time to do that again.
+08:16 I found a nice apartment,
+08:17 took from my savings
+08:18 and paid six month upfront
+08:20 And then prepared for the grind.
+08:25 So right now,
+08:26 my app is making $3000 of monthly
+08:29 recurring revenue.
+08:30 but I think I can do better than that.
+08:32 I think I can push my app
+08:34 to $5000 to $10,000 of monthly
+08:37 recurring revenue
+08:38 before selling it for a way better price.
+08:42 So yeah, that's basically
+08:44 what I'm going to try to achieve,
+08:46 during those six months.
+08:48 So I will do everything I can to grow my app,
+08:53 it doesn't matter what it takes.
+08:55 I'm just here.
+08:56 I don't have any,
+08:57 you know, anything else...
+08:58 Just pure focus.
+08:60 My girlfriend just left back to the US.
+09:03 So we're going to spend,
+09:05 long distance for some time.
+09:08 So it's just me and my laptop.
+09:10 The place I found
+09:11 had the gym in the building.
+09:12 And I found a healthy meal service
+09:14 delivery nearby.
+09:15 With this system in place,
+09:16 I could optimize my routine to extreme
+09:18 and never leave my building,
+09:20 which is exactly what I needed.
+09:21 At first,
+09:22 it was hard to choose what to focus on
+09:24 because there was
+09:24 just so many things to do.
+09:26 But after testing a few things,
+09:27 I finally found the trick
+09:29 that allowed me to double my revenues.
+09:32 Imagine this.
+09:33 You have an online store
+09:35 that sells pet supplies.
+09:36 Now you want to run ads to attract
+09:38 new customers.
+09:39 What's the best move?
+09:40 Instead of making generic ads,
+09:42 focus on a specific customer group.
+09:44 For example, create
+09:45 an ad specifically for Corgi owners.
+09:48 you will reach less people,
+09:50 but you can be sure that a Corgi owner
+09:52 seeing an ad asking
+09:53 “Are you a Corgi owner?” will read it.
+09:56 Simply because it's made specifically for them,
+09:58 and it's not generic,
+09:59 which will generate more sales.
+10:01 Quality over quantity.
+10:02 So I decided to do that for my startup
+10:04 and started making ads
+10:06 and landing pages for specific audiences.
+10:08 and after a few weeks of testing,
+10:10 my website started to generate
+10:11 more revenues. Way more revenues.
+10:14 Between the revenue
+10:15 made for the monthly subscriptions
+10:16 and users who paid one year upfront.
+10:18 I started to generate over
+10:20 $10,000 of sales per month.
+10:22 I even allowed myself
+10:23 to take a small break in Korea
+10:24 to meet friends.
+10:25 Everything was great.
+10:26 But have you ever heard of Murphy's Law?
+10:31 Everything that can go
+10:32 wrong will go wrong.
+10:33 And the worst possible time.
+10:39 On April 16.
+10:40 In the middle of the night,
+10:42 a bug happened on my website
+10:44 and made it completely unusable.
+10:45 And when I woke up.
+10:47 I woke up
+10:49 saw that the sales
+10:52 were completely down 70%
+10:55 because of the
+10:57 fucking bug that slipped last night
+11:01 when I was asleep.
+11:02 And then there was another issue.
+11:04 And then another one and another one.
+11:06 And it just doesn't f**king stop,
+11:11 the whole f**king day.
+11:12 I spent seven hours
+11:14 straight trying to fix ONE
+11:16 bug and I could I just could not.
+11:18 It was not working.
+11:19 I don't want to deal with
+11:20 this shit anymore.
+11:22 I received over 50 emails
+11:24 from customers complaining,
+11:25 sales were down
+11:26 70%, and people
+11:28 started to cancel subscriptions.
+11:30 It lasted for two days before
+11:32 I was able to fix it, during
+11:34 which I barely got any sleep.
+11:35 But when I tried to get back to work,
+11:38 something was wrong.
+11:39 It's like my motivation was drained.
+11:42 I couldn't do anything at all.
+11:43 So I waited a few more days and waited
+11:47 Until I realized I just cannot work on it
+11:50 anymore.
+11:51 I'm like, way to,
+11:53 I don't know, burned out, I guess.
+11:57 like, I can work
+11:59 20 minutes and then I just,
+12:01 I cannot just
+12:02 too hard and I cannot focus on stuff.
+12:06 it would take much longer to recover
+12:08 from that
+12:08 and be able
+12:09 to work on this project again.
+12:11 If ever.
+12:11 But not working on it
+12:13 for months was not an option.
+12:15 The A.I. space moves incredibly fast
+12:17 and in just one month,
+12:19 you can become completely irrelevant.
+12:21 So the two solutions
+12:23 were to either hire someone
+12:24 to manage a website for me,
+12:26 or to sell it.
+12:27 Hiring someone would allow me to take time off,
+12:30 but finding the right person
+12:32 would be another headache.
+12:34 I didn't want to deal with.
+12:35 So there was only one option: To sell it.
+12:38 From my calculations,
+12:40 my startup could be worth up to $300,000.
+12:43 But there was an obvious problem.
+12:50 I didn't had 6 to 10 months.
+12:52 Due to the burnouts,
+12:53 working on
+12:54 this project was not an option.
+12:56 and if I waited, it would eventually
+12:57 stop growing and lose its value.
+12:59 The conclusion was simple
+13:01 I had to sell in the next two weeks,
+13:02 or I could be left with nothing.
+13:09 I got on a call
+13:09 with Ebony from acquire,
+13:11 who gave me tips
+13:12 to get the best outcome
+13:13 considering my situation.
+13:14 So I decided to price
+13:15 my startup at $200,000
+13:17 to make sure it would be a good deal
+13:19 for the buyer to get full cash
+13:21 and to sell it fast.
+13:22 I quickly got my first formal offer
+13:24 for $200,000,
+13:25 and the buyer was fine to pay cash.
+13:27 And in the next few weeks.
+13:29 And after a few weeks of waiting,
+13:31 I received the asset purchase agreement
+13:33 called APA.
+13:35 So this is the purchase...
+13:37 the Asset Purchase Agreement.
+13:41 which means once this is signed,
+13:43 the sale is done.
+13:44 And it's not just about transferring
+13:46 the actual things.
+13:48 I don't know what to say,
+13:49 I'm just really excited.
+13:51 *click*
+13:53 Okay.
+13:53 This is done.
+13:55 And just like that,
+13:56 my startup was officially sold.
+13:58 But it wasn't over.
+13:59 We might have signed
+14:00 a piece of virtual paper,
+14:02 but I still had to transfer everything
+14:04 and receive the $200,000.
+14:06 Now, to make sure everything
+14:07 would be transferred safely,
+14:09 we decided to use a middleman: Escrow.com
+14:12 And as you are able to see,
+14:13 things would go terribly wrong.
+14:15 So the buyer sent money to the,
+14:18 like, middleman, to Escrow.
+14:20 So now it's just about,
+14:21 we transfer everything.
+14:22 And so I'm going to, you know,
+14:24 transfer them the domain name, the, like.
+14:27 Yeah, everything basically,
+14:28 which should be tomorrow.
+14:31 And after that.
+14:32 Yeah, the transaction is complete.
+14:35 And I get my money.
+14:37 So this is great.
+14:40 It's 10 P.M,
+14:43 and I just received a message from,
+14:47 the middleman Escrow, who just said
+14:49 that they did not wanted
+14:51 to send me the money because I use Wise
+14:55 but obviously, like, wise is literally,
+14:59 their options, like, it's literally said.
+15:01 Yeah, you can receive
+15:02 your money from Wise
+15:05 I'm not sure
+15:05 if everything is
+15:06 going to have to be canceled.
+15:08 I don't know how it's going to work
+15:10 because the buyer can only do
+15:11 the transfer tomorrow.
+15:12 After that, he won't be available
+15:13 for, like, a long time.
+15:14 This is fucking bullshit.
+15:16 Like, I literally used Wise last time
+15:19 using them,
+15:19 so I don't know
+15:21 if they're lying or whatever,
+15:23 but they just don't want to send me
+15:24 the money.
+15:30 Apparently,
+15:31 it's because I only had a Wise
+15:32 account for this company.
+15:34 And they don't accept Wise.
+15:35 But their website clearly says
+15:38 they accept Wise.
+15:40 So I'm not really sure what happened.
+15:42 Opening a new bank
+15:43 account could take months.
+15:44 So this was out of the equation.
+15:46 And after trying to negotiate with them
+15:48 and threaten them,
+15:49 it was clear
+15:50 We had to cancel everything
+15:51 and restart from scratch.
+15:53 This would take at least a few more weeks
+15:55 for the buyer to get refunded.
+15:56 And could potentially
+15:58 read the whole thing
+15:58 if the buyer just ran out of patience.
+16:01 Luckily for me, the buyer
+16:03 still wanted to continue the acquisition.
+16:05 This time, instead of using a middleman,
+16:07 we would do everything manually.
+16:09 But even if I trusted the buyer,
+16:11 there was still a risk.
+16:12 He would not send me the money
+16:13 after I transferred everything.
+16:15 But I had no choice.
+16:17 So I did it anyway.
+16:18 The only thing left now was for the buyer
+16:20 to get refunded by the middleman,
+16:22 and then get my $200,000
+16:24 after transferring everything.
+16:25 But as you can probably guess,
+16:27 by the time left in this video,
+16:29 it didn't work as planned.
+16:33 Hey.
+16:33 So,
+16:36 so it's been a week
+16:39 now, waiting for the refund
+16:40 from the middleman Escrow.
+16:45 It's just.
+16:46 It's just more and more
+16:47 waiting, like, honestly,
+16:49 like, mentally I feel depressed as fuck.
+16:53 I probably said that
+16:54 like, 20 times already, but.
+16:55 Yeah, the
+16:56 the waiting is f**king killing me.
+16:57 I just hate that.
+16:59 I'm not going to say, you know, it's hard
+17:00 because it's not like
+17:01 I was working in a factory
+17:03 or something like,
+17:05 like manual work, but it just
+17:07 it just pisses me off.
+17:08 Just really pisses me off.
+17:09 But, apparently
+17:11 the buyers received the refund back,
+17:15 so it means that
+17:18 it's like early next week...
+17:20 We should be able to finalize everything.
+17:23 Turns out Escrow
+17:25 lied about the refund
+17:28 so the money never reached my buyer's
+17:31 bank account.
+17:31 They lied.
+17:32 They said it was sent.
+17:34 It was processed.
+17:36 but no, it's not.
+17:38 My buyer contacted his bank.
+17:40 The bank said no,
+17:41 we didn't receive anything,
+17:42 so they are f**king lying.
+17:44 And after contacting them
+17:45 and threatening them
+17:46 for almost two weeks,
+17:48 we had the refund done.
+17:49 Now that the buyer had the money back.
+17:51 It was time to transfer everything.
+17:53 And again things started to go wrong.
+17:55 so yeah,
+17:56 we need to find a way to transfer Stripe.
+17:58 And of course, the supports
+18:00 have absolutely no
+18:01 f**king clue how to do it.
+18:04 we called them.
+18:06 The person was like, oh,
+18:07 yeah, I don't know how that works.
+18:09 So that's great.
+18:11 So we need a special team,
+18:13 which obviously take a week to answer.
+18:15 The most critical
+18:16 part of the transfer was stripe,
+18:17 the platform
+18:18 to handle monthly subscriptions.
+18:20 But there was no easy way
+18:21 to transfer subscriptions
+18:23 from one account to the other,
+18:24 So we would have to delay more.
+18:26 But luckily the buyer found a startup
+18:28 that could do it.
+18:29 It costed him $3,000
+18:31 for one hour of work from them,
+18:33 but it worked.
+18:33 And it saved us day of manual work,
+18:35 so it was worth it at the end.
+18:37 With the transfer done,
+18:39 the only thing left
+18:40 was to receive
+18:41 my $200,000 on my bank account.
+18:43 And guess what?
+18:46 All right,
+18:48 all right.
+18:49 So finally,
+18:51 I officially sold my app for $200,000.
+18:54 I got the money on my account,
+18:56 So, yeah,
+18:56 I hope you will be able to see it,
+18:58 but yeah, 200,000 minus
+18:60 some of the bank fee.
+19:01 The money just came in.
+19:03 I was going to bed like right before.
+19:05 Okay.
+I'm going to just turn off the light,
+19:07 go to sleep
+19:07 I just checked
+19:08 I refreshed in the morning was
+19:10 it was here so.
+19:12 Oh my God, that's fucking surrealistic.
+19:17 I don't know.
+19:17 I'm not very good
+19:18 at expressing stuff,
+19:19 but I'm really fucking happy.
+19:22 I can retire in Asia if I wanted to.
+19:25 Like, I can live in Bali or in Thailand
+19:28 or anywhere for,
+19:29 like, forever, basically.
+19:31 of course there will be some taxes
+19:33 and stuff like that,
+19:33 but the amount is still super high
+19:36 compared to what I'm used to.
+19:38 Oh fucking
+19:39 hell, this is insane.
+19:44 yeah,
+19:46 I actually, I don't know what to say.
+19:48 I'm just really happy.
+19:50 I'm really happy
+19:51 that this is finally done.
+19:52 I'm really happy that I can move on.
+19:54 With this acquisition,
+19:55 plus the sales
+19:56 I made from my other projects.
+19:57 now have around
+19:58 $300,000 in my (company's) bank accounts,
+20:00 which is 30% of being a millionaire.
+20:03 Nice,
+20:03 I might still be burned out,
+20:05 but at least I have a shitload of money
+20:07 on my bank account now.
+20:08 That is before coming back to work
+20:09 because I just sold
+20:11 my main source of income again.
+20:12 But spoilers
+20:13 I already have a new startup
+20:14 that generates revenue already.
+20:15 And this is
+20:16 because I have a good process
+20:17 to find new startup ideas.
+20:19 And if you want to know how,
+watch this video.
