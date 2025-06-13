@@ -1,0 +1,376 @@
+00:00 so you want to get rich huh that bank
+00:02 account is looking a bit empty isn't it
+00:03 let's fix that with a little programing
+00:05 magic all you have to do is go to your
+00:07 bank account right click select inspect
+00:08 element and change the amount of money
+00:10 you have and there you go ladies and
+00:12 gentlemen we're officially Rich it's
+00:14 that easy I'll see you all in the next
+00:15 video all right all right enough jokes
+00:17 you want to get rich from programming
+00:19 which means you're different from other
+00:20 people you don't want a regular job
+00:22 you're a hustler you want to break the
+00:24 system escape the matrix well don't
+00:26 worry buddy in this video I'm going to
+00:27 show you how to program apps that
+00:29 actually make money I'm going to guide
+00:30 you through the process of how to get an
+00:32 idea how to code it and how to Market it
+00:34 trust me I'm an expert at this
+00:36 disclaimer this person is an unemployed
+00:38 loser he has no experience whatsoever
+00:40 viewer discretion is advised that was
+00:43 weird so the app idea let's get one
+00:45 thing straight our goal here is to get
+00:46 rich not build the next billion dollar
+00:48 company all we need to do is create a
+00:50 project that pays your rent and your
+00:52 random door Dash orders this makes our
+00:54 job 10 times easier because now we don't
+00:56 have to build some project that will
+00:57 solve a problem for Humanity we just
+00:59 have to build a project that fuels our
+01:01 greed okay this is starting to sound a
+01:02 bit unethical maybe we should do
+01:03 something oh money now that we've sold
+01:05 our soul to capitalism we can use my
+01:07 secret business strategies for project
+01:09 ideas this looks like a pyramid wait a
+01:12 minute strategy number one solve a
+01:14 problem so small so stupidly specific
+01:17 that nobody else bothers let me give you
+01:19 a beautiful example I have a problem and
+01:21 I assume other people have the same
+01:23 problem I get a lot of emails promotions
+01:26 alerts reminders and of course emails
+01:28 from people who reply to my newsletter
+01:29 sloth bites oh you don't know what sloth
+01:31 bites is sloth bites is My Weekly
+01:34 Newsletter where I share bite-sized
+01:35 programming information every week to
+01:37 make you a better programmer and the
+01:39 best part about it it's free all you
+01:40 have to do is give me your email I won't
+01:42 do anything with it I
+01:44 promise so yeah my emails get a lot of
+01:46 stuff and I'm too lazy to categorize
+01:47 them so you can make a project that
+01:49 categorizes emails and I bet you could
+01:50 charge $5 a month for this get 1,000
+01:52 users and Bam $5,000 a month wait this
+01:55 already exists ah strategy number two
+01:57 solve a problem so big and common that
+01:59 it doesn't matter if another one exists
+02:01 look maybe the email thing has already
+02:02 been done but that doesn't mean it won't
+02:04 work think about it calendar apps
+02:05 password managers notetaking apps to-do
+02:07 apps there's like 500 of them but guess
+02:09 what they still make that money your
+02:12 idea doesn't have to be good or original
+02:14 that's right in fact you can even just
+02:16 copy and paste someone else's idea big
+02:18 companies are a master of this check
+02:20 this out door Dash Uber Eats GrubHub
+02:22 wrappy holy there's a lot of food
+02:23 delivery strategy number three the X for
+02:25 y formula look since we can copy
+02:27 businesses we can use this classic
+02:29 strategy to make it look like we're
+02:31 doing something original the strategy is
+02:33 pretty simple the x is the specific
+02:35 problem or need that you're trying to
+02:36 solve and then the Y is the specific
+02:38 group of people or Market that you're
+02:40 trying to sell to so imagine something
+02:41 like the Discord for businesses Linux
+02:44 but for normal people Uber Eats but you
+02:47 take people wait that's just Uber look
+02:48 it's a simple strategy I obviously don't
+02:50 have any good ideas or else I'd be rich
+02:52 but you get the point right this
+02:53 strategy is really effective if you have
+02:55 absolutely no creative strategy number
+02:57 four the GPT rapper this is a brand new
+02:59 strategy thanks to CH GPT and other AIS
+03:01 and the strategy is pretty simple you
+03:03 make AI do a specific task yeah it's
+03:05 that simple and some people have made
+03:06 Millions off this like my homie Blake
+03:08 Anderson right here you know what he
+03:09 made Riz GPT GPT for dating he made
+03:12 Millions off this yeah Millions business
+03:14 is such a beautiful thing now even if
+03:16 you have an idea thanks to my four
+03:17 strategies it doesn't really matter if
+03:19 you don't know how to build it so let me
+03:20 show you how to start building these
+03:21 apps you see most developers have
+03:23 problems here they get stuck and it's
+03:25 not because they can't build it in fact
+03:27 it's the opposite they can build it but
+03:29 they want everything to be perfect they
+03:30 want to keep adding features they're
+03:32 worried about scaling bro you have zero
+03:35 users what's the point of scaling
+03:37 because while you're worried about clean
+03:38 code scalability and best practices
+03:41 someone else is launching their Broken
+03:42 app getting real users and making money
+03:45 with code that looks like it was written
+03:46 by a three-year-old but thanks to modern
+03:48 tools shipping garbage has never been
+03:50 easier but I'll get to that part later
+03:51 when you're building your project it
+03:53 should follow these three rules SLC
+03:56 simple lovable and complete I stole this
+03:58 from a video from edman young but I just
+03:59 love the advice so much so I'm going to
+04:01 steal it here I'm sorry Edmond it's such
+04:02 good advice simple means your app
+04:04 doesn't have to do everything but it
+04:06 should at least deliver at least one to
+04:08 two key features lovable means you want
+04:10 people to use your app so this just
+04:12 means your app should have some good
+04:13 uiux so basically make your app look
+04:15 good I'll talk more about that later and
+04:17 your app should be complete don't make
+04:18 your app like the gaming industry where
+04:20 it's incomplete and then sell you it
+04:21 later make sure it's functional make
+04:23 sure the one to two key features you did
+04:25 make work once again I'm taking this
+04:27 from Edmond so go check out his videos
+04:29 later not now you should watch mine
+04:31 first now I want to emphasize the L and
+04:33 SLC lovable because I don't think enough
+04:35 of you understand how important this
+04:37 part is especially the programmers
+04:39 specifically backin Engineers I'm
+04:41 looking at you please make your project
+04:43 look good or at least not terrible it's
+04:45 bad enough that you're ugly don't make
+04:46 your project ugly
+04:47 too most of you probably only care about
+04:50 the programming part you want to get
+04:52 things done even if it looks ugly and I
+04:54 respect that but you're trying to sell
+04:55 this project to other people here's the
+04:57 thing about us humans we're shallow very
+05:00 shallow you could have the best code
+05:02 ever written revolutionary features but
+05:04 if it looks ugly nobody's going to use
+05:06 it I mean there's exceptions of course
+05:08 like Craigslist and uh Craigslist but
+05:10 imagine if Craigslist just looked a
+05:12 little better design is really important
+05:15 now you could spend Years Learning
+05:17 design studying UI patterns taking
+05:19 screenshots of every app to learn how to
+05:20 make a good-look website or you could
+05:22 use this tool to help you out mobin now
+05:24 what's mobin mobin's a really useful
+05:26 tool for design and I'm so happy a
+05:28 platform like this exists you can think
+05:29 of like the paparazzi for design because
+05:32 they take pictures of everything M don't
+05:34 get mad at that and they're also the
+05:35 sponsor of today's video I knew it it's
+05:38 a platform that lets you look at
+05:39 websites and mobile apps to get some
+05:40 design inspiration and see how other
+05:42 applications do things let me give you
+05:44 some quick facts about mobin that will
+05:45 blow you away they have over 1,200 apps
+05:48 over 500,000 screenshots and over
+05:50 880,000 user flows yeah it's a cheat
+05:52 code for design it's updated every
+05:53 single week and their mission is to
+05:55 empower the world to design great
+05:56 digital experiences so basically mobin
+05:59 wants to make every website and app look
+06:01 good you can check out how other
+06:02 companies do signups logins their
+06:04 homepage dashboards checkouts really
+06:06 anything a lot of designers rely on
+06:07 mobin as a source of inspiration and
+06:09 best practices because well they have
+06:11 everything I mean look how easy this is
+06:12 I need a landing page I go on mobin Boom
+06:14 this is how 500 apps did their landing
+06:16 page it's quick and easy to find exactly
+06:17 what you need no more random screenshots
+06:19 no more guessing what works mobin
+06:21 already has everything for you and you
+06:22 might even learn a thing or two about
+06:23 your iux so if you'd like to try mobin
+06:25 for free and start making beautiful
+06:27 projects click the link in the
+06:28 description now that we have our design
+06:29 CH Cod and I sold my soul a bit let's
+06:31 get a bit more Technical and start
+06:33 building your application is going to
+06:34 need four parts front end the backend
+06:36 database and a payment processor and
+06:38 when people think of these four steps
+06:40 they usually have to think of a teex
+06:41 stack ah yes the teex stack a landmine
+06:44 full of opinions now when it comes to
+06:46 Tech stack specifically to make money
+06:49 your Tech stack doesn't really matter
+06:50 the only people that care about your
+06:51 Tech stack are Tech Bros on Twitter it's
+06:53 X now I'm not saying that and they're
+06:55 not going to buy your product they're
+06:56 going to build it themselves so you
+06:57 could honestly use whatever you want
+06:58 WordPress scratch JavaScript python you
+07:01 can write your app in cobal for all I
+07:02 care the only thing that matters is if
+07:04 your app works the only recommendations
+07:06 I will give you about a Tex stack is use
+07:08 something that's popular that has a lot
+07:10 of developer support has a large
+07:11 community and that you're the most
+07:13 comfortable with at the end of the day
+07:14 if you can't get any work done what's
+07:16 the point now what I like to use
+07:17 personally and this is specifically for
+07:19 web development I like to use nextjs and
+07:21 superbase and I like to style my apps
+07:23 with shaten and Tailwind I love shaten
+07:26 and then I like to use post hog for
+07:27 analytics to track you all and then I
+07:29 use stripe for payment processing so I
+07:31 can take all your money yeah that's the
+07:32 tech stack I like to use right now this
+07:34 could change in the future because
+07:35 there's a lot of tools and Frameworks
+07:36 out there that I haven't used personally
+07:38 but this does get the job done it's up
+07:39 to you if you want to use it ah remember
+07:42 when I said shipping garbage has never
+07:43 been easier this is what I meant now ai
+07:45 is not perfect and people have mixed
+07:47 opinions about it for programming my
+07:49 advice would be if the goal of this
+07:50 project is to learn I don't recommend
+07:52 using it but in our case it's to sell
+07:53 out and make money so who cares now
+07:55 obviously AI isn't perfect it's not
+07:57 going to give you the entire project yet
+07:59 but I will say it's very helpful to get
+08:01 stuff done fast specifically annoying
+08:02 stuff AI is a very helpful tool no
+08:05 matter how you look at it now there's
+08:06 levels to how you can use AI we got the
+08:08 normi level which is just the basic AI
+08:10 chats like chat GPT Claud Gemini does
+08:13 anyone actually use the Gemini chat and
+08:15 then we have the try hard sweat level
+08:17 which are using tools that are
+08:18 specifically made for coding there's
+08:20 tools like bolt v0 and lovable that
+08:23 basically build the full stack
+08:25 application they obviously can't build
+08:26 the entire thing but they do give a good
+08:28 starting point I mean check this out
+08:29 I'll use both for this you give a
+08:30 description of what you want and bolt
+08:32 just builds it for you oh my God there's
+08:34 also AI code editors like cursor
+08:36 windsurf and pair shout out name AI
+08:39 inside your code editors might become
+08:40 the norm soon at least for
+08:41 non-enterprise projects because they're
+08:43 really helpful it's great you should
+08:44 check out one of these AI code editors
+08:46 but uh where was I all right how to make
+08:48 projects that make money you now have
+08:49 your app idea that will make you
+08:51 Millions all you have to do now is build
+08:53 it let me give you the ultimate workflow
+08:55 so you can finish that app in a week
+08:58 step one get a description and Outlook
+08:59 line of the project go to chat gbt
+09:02 describe the project you want to make
+09:03 and tell chat gbt to create a detailed
+09:05 and structured explanation of the app
+09:07 because you don't even know what you're
+09:08 building yourself yet step two use an AI
+09:11 tool like v0 bolt or lovable and copy
+09:14 and paste that detailed explanation to
+09:16 one of those tools it'll start building
+09:18 it for you and give you a good starting
+09:19 point step three fix the UI these tools
+09:22 are most likely going to generate
+09:24 terrible UI so what you can do now is go
+09:26 on to mobin and look at any designs that
+09:28 you think look good copy The images from
+09:30 mobin and paste them into the tool that
+09:32 you use to build the app and tell it to
+09:33 make it look like that step four start
+09:36 programming it yourself even though you
+09:37 have a starting point these tools are
+09:39 not going to build the whole thing for
+09:40 you you actually have to use your brain
+09:42 and code it yourself so yoink the code
+09:44 that it gave you and start coding and
+09:46 there you go my friend you now have a
+09:48 starting point to making your next
+09:49 million application now that you
+09:52 finished the project all you have to do
+09:53 now is wait and the users will start
+09:56 coming where's the user marketing now
+09:59 even though you finish building your
+10:00 project you'd think people would just
+10:02 visit it normally well you're wrong even
+10:04 once you finish building your project
+10:06 and you publish it to the internet
+10:07 literally nothing happens absolutely
+10:09 nothing nobody knows it exists nobody's
+10:11 going to use it your mom's not going to
+10:12 use it your dad's not going to use it
+10:13 your uncle's not going to use it your
+10:14 Grandma's not going to use it your
+10:16 project goes straight to the void of the
+10:17 internet which is why we need marketing
+10:19 all you need to do is be slightly
+10:20 annoying kind of everywhere and a little
+10:23 bit cringe and there's already a place
+10:24 that does exactly that social media woo
+10:27 Reddit free users Twitter free marketing
+10:30 LinkedIn free customers you have to
+10:33 start thinking like a business person
+10:34 you got to stop thinking about people as
+10:36 people you have to start looking at them
+10:38 as numbers and money go on LinkedIn and
+10:41 post about your entrepreneurship journey
+10:42 and link your project and people are
+10:44 going to eat that stuff up it's that
+10:46 simple nowadays go on Tik Tok post some
+10:48 cringe Tik toks about your product and
+10:49 people are bound to see it Go on YouTube
+10:51 post some terrible videos about your
+10:53 product people are bound to see it even
+10:55 if your video gets a little views you
+10:57 could just buy ads and people will have
+10:59 to see it cuz you paid for it so keep
+11:01 posting about your project keep being
+11:02 annoying and people will eventually try
+11:04 it now combine social media marketing
+11:06 with SEO search engine optimization
+11:08 picks up your HTML and add some metadata
+11:10 to your project get your project to the
+11:11 top of Google searches you already know
+11:13 what I'm going to say people are bound
+11:15 to see it and if your product actually
+11:17 is good it'll get popular and people
+11:19 will actually buy it and you'll finally
+11:21 be rich and live your dream life and if
+11:23 you successfully get rich from this
+11:25 video split me the check because you owe
+11:27 me I made you
