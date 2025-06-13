@@ -1,0 +1,212 @@
+00:00 most developers never make any money
+00:02 from the things they build and it's
+00:04 usually not because the code isn't good
+00:05 enough it's because the idea wasn't
+00:07 focused the problem wasn't clear the
+00:09 execution lacked direction or maybe too
+00:12 much time was spent on trying to learn
+00:13 too much when I first started I'd build
+00:16 cool features with zero idea who it was
+00:19 for no marketing no monetization plan
+00:22 but profitable apps don't just happen
+00:25 they're the result of being intentional
+00:27 having a plan solving a real problem and
+00:29 learning the things you need to know
+00:31 fast so if your goal is to build apps
+00:33 that provide value and earn money then
+00:35 this video will help to break down
+00:37 exactly how I approach building
+00:39 profitable solo projects the mindset you
+00:41 need how to define success how to build
+00:44 market and iterate in a lean way and
+00:46 I'll share the exact tools and tactics I
+00:48 use to help me move faster and smarter
+00:51 let's get into it
+00:53 so let's talk about mindset before you
+00:55 write any code shift your identity from
+00:58 just a developer to a problem solver
+01:01 that's the biggest mindset shift that
+01:02 separates hobbybuilders from those who
+01:04 create profitable apps you're not just
+01:07 writing code or relying on AI for your
+01:10 solutions but instead you're
+01:11 understanding and solving real problems
+01:13 for your users that means staying
+01:15 curious talking to users and the truth
+01:17 is people will pay good money if you can
+01:19 resolve a pain point save them time or
+01:21 even help them make more money another
+01:24 big shift let go of perfection if you're
+01:27 waiting until it's polished you're
+01:28 already too late profitable builders
+01:31 ship early get feedback and improve
+01:33 quickly small wins stack up finally
+01:36 treat every project like a learning
+01:37 opportunity if you consistently provide
+01:40 genuine value you will stand out as
+01:42 someone who can solve real problems
+01:46 so many projects fail before they even
+01:48 start not because they're bad ideas but
+01:50 because the goals were vague build a
+01:52 cool app isn't a goal you need to
+01:54 provide this goal with more information
+01:56 for example I want to build an app that
+01:58 does X to solve Y problem for these
+02:01 users you need to define three things
+02:03 clearly who it's for what problem you're
+02:06 solving and what success looks like is
+02:08 it revenue retention feedback or better
+02:10 yet build something that solves your
+02:12 problem just like I did with Fast
+02:14 Folders if it helps you it will help
+02:15 other people whether you build an MVP or
+02:19 an SLC it doesn't matter just make sure
+02:21 at launch it can complete the main task
+02:23 that it's made for you want to ship a
+02:26 version one of something complete not a
+02:28 version 0.1 of something complex and
+02:31 don't forget constraints give yourself a
+02:33 deadline a scope limit a focus it's so
+02:36 easy to overbuild i find that tighter
+02:38 goals actually unlock more creativity
+02:40 because they keep me honest and
+02:43 moving now the fun part building to code
+02:46 your own app you'll need to pick a tech
+02:48 stack but don't overthink it choose one
+02:50 that fits your strengths and your
+02:52 project goals if you're unsure where to
+02:54 begin check out
+02:56 roadmap.sh it's an excellent free
+02:58 resource that lays out learning paths
+03:00 for front end backend databases and more
+03:04 it's actively maintained and helps you
+03:05 focus on what matters without getting
+03:07 lost in the weeds once you're ready to
+03:10 build start lean my MVP is always the
+03:13 simplest version that solves one real
+03:16 problem i avoid distractions like user
+03:19 authentication or fancy animations those
+03:21 come later but even with minimal
+03:23 features your app should feel intuitive
+03:26 that's where design makes a huge
+03:27 difference i'm not a designer but I
+03:29 still want my projects to feel polished
+03:31 and that's where Mobin comes in mobin is
+03:34 a massive library of realworld UI
+03:36 patterns from the best apps out there
+03:38 like Stripe Notion and Linear so if I'm
+03:42 building an onboarding flow a setting
+03:44 screen or even just a login page I can
+03:46 instantly see what great design looks
+03:48 like and apply it it helps me build
+03:50 better UI faster and it's especially
+03:53 valuable if you're a solo dev without a
+03:55 design background there's a link below
+03:57 if you want to check it out
+04:01 one of the biggest productivity unlocks
+04:03 for me has been picking the right tools
+04:05 these days being a solo developer
+04:07 doesn't mean doing everything alone i
+04:08 treat tools like teammates first off I
+04:11 use VS Code and Cursor as my go-to idees
+04:14 cursor especially has been a gamecher
+04:16 lately it brings AI right into the
+04:18 editor helping me debug refactor and
+04:21 even generate code without switching
+04:23 tabs but use these tools wisely for fast
+04:27 UI prototyping I've been using Versel's
+04:29 V0 you can describe what you want in
+04:32 plain language and it gives you a decent
+04:34 looking React component to start from
+04:36 it's not perfect but it saves hours and
+04:38 that matters then there's Google Gemini
+04:41 and Chat GPT i don't just use them to
+04:43 solve bugs i treat them like mentors
+04:46 i'll ask them to explain concepts give
+04:48 me ideas or even pressure test my own
+04:50 thinking it's like having a senior dev
+04:53 on standby 24/7
+04:55 the key is not getting overwhelmed with
+04:57 too many tools i just focus on a few
+04:59 that genuinely speed me up and remove
+05:01 friction used well these tools make you
+05:03 feel like a team of two not just
+05:08 one you could build the most useful app
+05:10 in the world but if no one knows it
+05:13 exists it might as well not that's why I
+05:16 treat marketing as an integral part of
+05:17 the product not something you sprinkle
+05:19 on at the end start by figuring out
+05:21 where your ideal users spend time reddit
+05:24 Twitter Discord Indie Hackers wherever
+05:27 don't just drop links contribute to the
+05:29 conversation share lessons learned give
+05:31 feedback answer questions then when the
+05:34 moment feels right introduce your
+05:36 product in a natural way you'll also
+05:38 need a landing page that converts the
+05:40 formula is simple but powerful a clear
+05:43 headline that communicates the value a
+05:45 subheading that reinforces the problem
+05:47 it solves and a visual or short video
+05:49 that demonstrates how it works add in
+05:52 some early testimonials or reviews to
+05:54 build trust fast even if it's just
+05:56 feedback from your first 10 users
+05:58 speaking of which don't underestimate
+06:00 the power of a short demo video just 30
+06:03 to 60 seconds can be enough to show off
+06:05 what your app does and why it matters
+06:07 and remember your early users are
+06:08 everything they're not just customers
+06:10 they're testers evangelists and feedback
+06:12 machines listen to them learn from them
+06:15 and treat them like your founding team
+06:17 i'll link some useful documents in the
+06:19 description below
+06:22 most profitable apps don't take off on
+06:24 version one it's the second third or
+06:27 10th iteration where things click so
+06:30 after launch your job isn't done it's
+06:32 just beginning start by talking to your
+06:34 first users ask "What confused you what
+06:37 did you like and dislike what would you
+06:38 like to see improved?" Prioritize your
+06:41 user feedback by using three simple
+06:43 steps frequency how often your users are
+06:47 mentioning the problem feasibility how
+06:50 difficult is the task if it's quick and
+06:51 easy then act on that straight away
+06:54 impact what real value will this bring
+06:57 to your users every DM comment or email
+07:00 is a mini focus group when someone takes
+07:02 the time to give feedback whether it's
+07:04 positive or critical it's all gold take
+07:07 notes look for patterns and prioritize
+07:09 the pain points that keep coming up you
+07:12 don't need to act on everything but you
+07:13 do need to listen and the magic happens
+07:16 when you respond publicly thank them
+07:18 because at the end of the day they are
+07:20 helping you to help them people remember
+07:22 that it builds loyalty and momentum in
+07:24 ways that are hard to fake so keep a
+07:26 tight feedback loop because the best
+07:27 version of your product is the one your
+07:29 users help you build iterating isn't
+07:31 glamorous but it's where profit lives
+07:34 the builders who listen learn and adapt
+07:36 they're the ones who turn side projects
+07:38 into serious income if you take one
+07:41 thing away from this video it's this
+07:43 profitable apps are built with intention
+07:45 not just by coding fast but by focusing
+07:48 on real people clear problems and
+07:50 constant feedback you don't need to be a
+07:52 genius you just need a system feel free
+07:55 to check out all the useful links in the
+07:57 description below and if you're curious
+07:59 on how to ship projects faster then
+08:01 click on this link here let me know in
+08:03 the comments what you're building and
+08:04 I'll see you in the next
