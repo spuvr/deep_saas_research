@@ -1,0 +1,438 @@
+How I Built It: $9,000 Per Month Micro SaaS
+
+00:00 my app does one thing and makes 9K a
+00:03 month This is Leandro and he built an
+00:05 app that literally does just one thing
+00:08 If you want to build a successful plugin
+00:10 you need to understand this But before
+00:12 the success he was freelancing and doing
+00:15 side jobs until he came across a
+00:16 framework that changed everything It has
+00:20 hundreds of business ideas waiting to be
+00:22 built In this video Leandro shares it
+00:25 all How to quit freelancing and build
+00:27 for yourself How to validate and build
+00:28 your idea in two weeks and this huge
+00:31 opportunity hiding in plain sight All
+00:34 right let's get into it I'm Pat Walls
+00:36 and this is Starter Story
+00:41 Welcome Leandro to the channel Thank you
+00:43 for coming on Tell me about who you are
+00:46 what you built and what's your story My
+00:48 name is Leandro and I built an app that
+00:50 does only one thing and makes NK per
+00:52 month Synto sheets is an add-on that
+00:54 runs on the sidear of Google Sheets and
+00:56 allows users to sync their notional
+00:58 databases to sheets I built it in two
+01:01 weeks and it has been around for four
+01:03 years now All right cool So you built a
+01:05 plugin that makes $9,000 a month Tell me
+01:07 a little bit more about this business
+01:09 and some of the numbers behind it So Cto
+01:11 Sheets runs on the side of Wool Sheets
+01:14 and it's kind of part of the Wool
+01:15 Workspace marketplace We have more than
+01:18 70K users in the application We have
+01:21 more than 450 paying customers and we
+01:24 get kind of 5k visitors a month and
+01:27 lifetime revenue probably around 120k
+01:31 for the last four years I could say that
+01:33 the last year or two years is where we
+01:35 made most of the money All right So one
+01:38 reason why I wanted to bring you on the
+01:40 channel and what I love about your
+01:41 business is it just does one thing I
+01:44 think that's super cool Tell me a little
+01:46 bit about how you found this idea So
+01:48 what happened four years ago I was
+01:50 building an integration between Google
+01:53 Sheets and another service I was working
+01:55 with the sheets API So I gained a lot of
+01:57 knowledge about it And at that time
+01:59 notion released their official notion
+02:01 API There was a a gap between what users
+02:04 needed and what's available in notion So
+02:06 I said okay I need to validate if
+02:08 there's going to be a need for that kind
+02:09 of integration to sync Google sheets
+02:11 with notion So what I did I went to
+02:13 Reddit I checked the subreddit of notion
+02:16 and search for keywords like sheets
+02:18 Google sheets excel CSV all related
+02:22 keywords to what I was trying to build
+02:24 and validate and I found a lot of people
+02:25 like trying to export the information
+02:27 from notion into sheets to work with the
+02:29 data I was confident to build an MVP in
+02:31 two weeks So I just built MVP and
+02:34 starting to find users and beta testers
+02:37 to to give a shot Cool Well I mean I
+02:40 think that's super cool If you're
+02:41 starting today where would you go
+02:42 looking for more opportunities for this
+02:44 type of business i believe Zapier is a
+02:46 good place to go and find those kind of
+02:49 opportunities So if you go to Zapier and
+02:51 you check for example the most common
+02:53 SAPs you will see that pair of two
+02:55 applications for example are QuickBooks
+02:59 and sheets There's a lot of companies
+03:01 and small businesses using QuickBooks
+03:03 for accounting and they need to move
+03:04 that information to check the invoices
+03:06 the payment orders and everything and
+03:08 work with that data And doing that in
+03:09 Sapier is kind of messy You need to
+03:12 create different subs for updates for
+03:14 creates deletes and everything So if
+03:16 you're able to build that in just one
+03:18 piece of software that does everything
+03:20 you're going to be solving a huge pain
+03:22 point for customers That's perfect I
+03:24 love that Let's take a step back I know
+03:25 that you have an interesting background
+03:27 You live in Buenos AIS Argentina Tell me
+03:29 about your background and how you got
+03:30 into building apps So I first study
+03:33 electronics engineering I really love
+03:35 like taking things apart and and
+03:38 investigating everything I went to
+03:40 college College made me literally hate
+03:42 electronics So that way I said "Okay I
+03:44 need to learn by myself." I chose
+03:46 JavaScript because in JavaScript you can
+03:48 build mobile apps web apps and
+03:50 everything So it took me kind of a year
+03:52 Life got in the way I did freelance in 8
+03:56 years It's kind of hard You have an
+03:58 entrepreneur spirit You want to make the
+04:00 decisions and sometimes you're not in
+04:02 charge So yeah I was kind of tired of
+04:04 that kind of work I wanted to create my
+04:06 own schedule for the day just be able to
+04:09 build things be with a computer and
+04:11 solve problems I said "Okay I already
+04:14 have some savings I already know how to
+04:16 code I have the experience now I want to
+04:18 give it a shot." It was during co that I
+04:20 decided to take that that step I quit
+04:23 everything No more clients no more
+04:25 anything And just decided to to build my
+04:28 own thing Cool Okay let's get a little
+04:30 bit more technical here I want to know
+04:31 about how you actually built this thing
+04:33 how long it took to build and how you
+04:35 launched it So the Adon is built using
+04:37 Appcript Appcript is a language from
+04:40 Google services that allows you to
+04:41 extend Google Docs Sheets Slides and all
+04:45 Google services So that's what I use to
+04:47 build the the UI and everything of the
+04:48 ADOM Then I use VS Code as my coding
+04:51 editor to build MVP As I mentioned
+04:53 before it has some experience using the
+04:55 sheets API So that really helped at the
+04:58 beginning to create the first version
+04:59 and and it took me yeah two two weeks no
+05:02 AI just stack overflow Google and and
+05:05 searching for for everything there I
+05:07 love that Let's talk about ideas How do
+05:09 you go about finding ideas that can make
+05:11 money yeah I'm not the kind of of guy
+05:13 that go looking for ideas and usually I
+05:16 read a lot blog post X YouTube videos
+05:19 Ideas spark in my mind and I just write
+05:22 them down I have a huge list of ideas
+05:24 And it's funny when the same idea pops
+05:26 up different times Those are the kind of
+05:28 ideas that you work on But if I were to
+05:30 look for ideas I could use I think
+05:32 Upwork could be a great place to find
+05:34 ideas because you can go there and see
+05:36 what people are looking for to build And
+05:38 maybe if you can translate that into a
+05:40 known solution to offer to other users I
+05:43 think there could be some really good
+05:44 insights in there On that same note
+05:47 let's talk about validating those ideas
+05:49 Once you've come up with an idea and
+05:50 even potentially launched or thinking
+05:52 about launching it how do you know if
+05:54 that idea is validated what's your
+05:55 approach to that yeah for new ideas I
+05:57 usually first look if there is something
+05:59 that already exists that is similar or
+06:01 the same Is this an enterprise solution
+06:03 is this for small businesses is this for
+06:05 for individuals you can check the
+06:07 existing pricings to see what's the
+06:09 potential for for that idea That's kind
+06:11 of the first step Then if I'm going to
+06:13 continue building I need to know that
+06:15 I'm gonna be able to have something that
+06:17 differentiates me from the rest of the
+06:19 products that already exist If I can't
+06:21 find that angle I maybe look for
+06:22 something else because if you're not
+06:24 able to differentiate yourself it's
+06:26 going to be hard to enter into the
+06:27 market And then yeah try to find your
+06:30 first five users willing to try it out
+06:32 right use Reddit use X use Facebook
+06:34 groups LinkedIn groups as well Having
+06:37 those users using the app while you're
+06:39 building it is amazing like it's really
+06:41 like the insights and all the validation
+06:43 that you get that you're building
+06:45 exactly what they need is is super
+06:47 important Cool So let's talk about MVP I
+06:50 think a lot of people watching this may
+06:52 have tried to build stuff and sometimes
+06:54 when you get towards the end you're not
+06:55 sure what features to include and what
+06:56 not to include Tell me about how you
+06:57 approach that with your plug-in First I
+06:59 need to be able to transfer the
+07:01 information from one place to the other
+07:03 No formatting no anything I just wanted
+07:05 the data to be there in sheets And then
+07:07 I started to think about the user
+07:08 experience and what users could want the
+07:11 data to look like And I realized they
+07:13 could want the data to look like similar
+07:15 to how it looks in notion So that's when
+07:17 I added conditional formattings data
+07:20 validation for select for drop downs and
+07:22 everything I also wanted the sync to
+07:24 work and allow users to move columns
+07:26 hide columns So I focus in those little
+07:28 details that make the difference Right
+07:31 Awesome All right Well before we get
+07:32 into how Leandro turned this simple idea
+07:35 into a $9,000 per month micro SASS let's
+07:38 talk about where the next big solo apps
+07:40 are being built If you're a solo dev or
+07:43 SAS builder like Leandro you know that
+07:45 marketplaces are one of the smartest
+07:47 ways to grow and build a business You
+07:49 don't need an audience You don't need to
+07:51 run ads You just need to build something
+07:53 people already need where they already
+07:56 are And one marketplace that's flying
+07:58 under the radar right now is monday.com
+08:00 It's a multi-product platform with
+08:03 products for project management CRM
+08:05 service management and more They've got
+08:07 over 245,000 customers across over 200
+08:11 industries And over 90% of their
+08:14 enterprise customers use apps on the
+08:17 marketplace That is massive built-in
+08:19 demand And what's great is that the
+08:21 Money.com marketplace isn't saturated
+08:23 yet So this is a good chance to get in
+08:25 early and stand out while the
+08:27 opportunity is wide open They've made it
+08:29 super dev friendly with robust APIs MCP
+08:33 support flexible SDKs and a team that's
+08:36 actually invested in helping your app
+08:37 succeed Plus modernization is native You
+08:40 set up the pricing and they handle the
+08:42 billing and payments We worked with them
+08:43 to put together this free ebook that
+08:45 breaks down the exact type of users on
+08:47 monday.com what they need and where the
+08:50 biggest opportunities are Click the
+08:51 first link in the description to grab it
+08:53 brainstorm your next idea and start
+08:55 building Thanks to monday.com for
+08:57 supporting the channel Now let's get
+08:59 back to Leandro's story Let's talk about
+09:01 the launch of this So you built it and
+09:03 then what happened did you put it on the
+09:05 marketplace and how many users did you
+09:06 get tell me about what the launch
+09:08 process was like Yes So the first step
+09:09 was to publish it to the Wool Works Pay
+09:12 Marketplace and then I started to spam a
+09:14 lot of famous groups related to notion
+09:17 and Reddit as well So I search keywords
+09:19 related to the product and started to
+09:20 have conversations with users both in
+09:22 the groups and in personal DMs So that
+09:25 way I got some some first users to try
+09:27 the application And the same with the
+09:28 marketplace Once application is in the
+09:30 marketplace if there's someone looking
+09:31 for something notion related they're
+09:33 going to find it and they're going to
+09:34 try it Also something that really helped
+09:36 was having a chat interface in the
+09:38 landing page at the beginning because
+09:40 that way you can have real conversations
+09:41 with customers and with users and try to
+09:44 understand what they need All right So
+09:46 let's talk about growth Uh after you
+09:49 kind of launch this thing you're posting
+09:50 on a bunch of forums What did you do
+09:52 after that to actually start growing as
+09:54 a business and distribute and get your
+09:56 product in front of more people yeah So
+09:57 the first source of installs was of
+09:59 course the marketplace That was super
+10:01 important But I realized I needed to do
+10:03 SEO stuff And so I started to think
+10:06 about what kind of blog post I could
+10:08 write that user can find interesting and
+10:11 related to notion and Google Sheets So
+10:13 that's right now one of our main traffic
+10:15 channels And I also use Reddit a lot I
+10:17 have a service called F5 bot that is
+10:20 free that lets you track different
+10:22 keywords on Reddit So I set up some
+10:25 keyword tracking related to CSV sheet
+10:28 sheets in that subreddit and every time
+10:30 I get an email with a notification that
+10:32 a new post or comment was added I just
+10:35 go there and reply Of course you need to
+10:37 try to be not spammy and really give
+10:39 value to to the users and if your
+10:42 product can be a solution for the their
+10:44 problems then you recommend your product
+10:46 you say you are the founder I also did a
+10:48 launch on product hunt a year and a half
+10:50 after launching the the product for the
+10:52 first time So that's also was a really
+10:53 nice source of traffic not paying
+10:55 customers but yes traffic and visibility
+10:57 And I remember I also posted on Hacker
+10:59 News I got to the front page I was crazy
+11:02 the spike you get in traffic is amazing
+11:04 But again the same is doesn't translate
+11:07 into paying customers It's just
+11:09 visibility back links that improve
+11:11 domain rating but that's it That's great
+11:14 All right Well let's get a little more
+11:15 technical here U I'd love to hear about
+11:17 your tech stack What kind of tools and
+11:18 languages do you use and have you used
+11:21 to build these products so TypeScript is
+11:24 my language VS Code I use it as my
+11:26 editor I have now started to use cursor
+11:29 a little bit All my infrastructure is in
+11:31 Google Cloud and Firebase I use S grid
+11:34 for transactional emails and marketing
+11:36 emails as well Mix pan for analytics I
+11:38 really love Mixpan because you are able
+11:40 to know exactly what each user is doing
+11:42 with application I use paddle as my
+11:45 payment processor instead of stripe
+11:47 because stripe is not available in
+11:48 Argentina And I use TIO as a customer
+11:51 support tool to have the chat in the in
+11:53 the landing page It takes time but it
+11:55 gives you like a lot of insights and
+11:57 direct communication with with your
+11:58 customers and I think that even at the
+12:00 beginning is super important That's
+12:02 awesome On that same note can you
+12:04 actually share with me the costs and the
+12:06 margin of a business like this yeah of
+12:08 course So I guess in in terms of
+12:10 percentage of margin is 90% My main
+12:13 expense right now is cloud
+12:15 infrastructure because again you are
+12:17 kind of syncing between two services and
+12:19 you are doing that all the time in real
+12:21 time So there's a lot of compute going
+12:24 on but apart from that the rest of the
+12:25 tools are cheap It's not a huge expense
+12:28 Cool All right Okay So you built this
+12:30 successful business It's making $9,000 a
+12:33 month somewhat on autopilot What have
+12:35 you learned through this process that
+12:37 surprised you it was crazy to realize
+12:39 how small changes affect the business
+12:42 Moving a button changing a text or just
+12:45 moving things around in the UI can have
+12:47 such a profound impact Sometimes just
+12:49 small decisions make a lot of difference
+12:51 At the beginning we had a free plan And
+12:53 I realized that a lot of users were just
+12:55 using the free plan and that was enough
+12:57 for them They didn't needed to pay So I
+12:59 made a decision to remove the free plan
+13:01 It was risky There was a lot of people
+13:03 angry about that But basically in that
+13:05 moment we went from 5K to 8K in few
+13:08 months I think So yeah just a small
+13:09 decision that makes a huge different to
+13:11 the business That's amazing insight I'd
+13:13 love to hear about what your typical day
+13:15 in the life looks like You're running an
+13:17 ad that makes $9,000 a month What does a
+13:19 typical day look like for you in
+13:21 Argentina so I have a 2-year-old child
+13:25 We usually wake up at 7 7:30 Prepare
+13:28 some mates breakfast I go with him to
+13:30 the kinderg After that I'm ready to to
+13:33 start working I usually work in a spikes
+13:35 So when I have to do development I kind
+13:37 of put together a lot of task do a huge
+13:40 spike of work and then I chill spike
+13:42 chill That's kind of my way of working
+13:45 And I try to do things that are going to
+13:46 make a difference If I see that a task
+13:48 or something is not going to move the
+13:50 needle I just don't do it and focus my
+13:52 time in something else Cool Last
+13:55 question that we ask all founders who
+13:56 come on Starter Story uh if you could
+13:58 stand on Leandro's shoulders when you
+14:01 were you know a freelancer trying to
+14:02 find that business idea what advice
+14:04 would you give him yeah I think it's
+14:05 super important to at least find your
+14:07 first user that is willing to pay for
+14:09 your application What happened to me
+14:11 with some other products is that you
+14:13 build it for free first you have a lot
+14:15 of usage and as soon as you start
+14:17 charging then they don't use the
+14:19 application anymore So that's the moment
+14:21 when you realize that there was not
+14:22 enough value for them So charging from
+14:24 the beginning I think is super important
+14:26 Do not waste time building something
+14:28 that no one is going to be willing to
+14:29 pay for And then when you realize that
+14:32 it's going to work just go for it All
+14:34 right Well that was great Thanks for
+14:35 coming on Leandro I love your story I
+14:37 love the business that you built
+14:39 Hopefully you'll be building a bunch
+14:40 more cool plugins and grow to 100K MR
+14:43 And we'll see you next time Thanks for
+14:45 coming on Thank you for having me It was
+14:47 super fun I wanted to thank Leandro
+14:49 again for coming on the channel I love
+14:50 his story because he's proof that you
+14:53 can take a simple idea and turn it into
+14:55 a really solid business My favorite part
+14:58 about his business is that although it's
+14:59 not a massive huge million-dollar
+15:01 business it's a super cool business that
+15:03 kind of works on autopilot it's great
+15:05 for developers and again like we said it
+15:07 just does one thing If you're interested
+15:09 in building something similar and you're
+15:11 serious about actually doing this I'd
+15:13 encourage you to check out Starter Story
+15:15 Build In 2 weeks you'll come up with an
+15:17 idea you'll build it and you'll launch
+15:19 it and come out the other side with a
+15:21 real live production app I'll put the
+15:24 link in the description if you want to
+15:25 check that out But otherwise thank you
+15:27 guys for watching I'll see you in the
+15:28 next one Peace

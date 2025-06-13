@@ -1,0 +1,103 @@
+00:00 Remember when buying software meant
+00:02 paying once and actually owning it?
+00:04 Yeah, that era is gone. Now everything's
+00:06 a subscription. You don't buy a tool,
+00:08 you rent it until you die or switch
+00:10 careers. Welcome to the disappointing
+00:12 reality of SAS, better known as scam as
+00:14 a service. Let's unpack how we got here,
+00:17 why your bank account is crying, and how
+00:19 we all became victims of beautifully
+00:20 designed extortion. It all started with
+00:22 good intentions. SAS was supposed to be
+00:24 the future. No more installations, no
+00:26 more endless version updates. Just open
+00:28 your browser and boom, you're
+00:30 productive. Salesforce was one of the
+00:32 first to make this pitch back in the
+00:33 early 2000s and people bought into it
+00:35 hard. Shut up and take my money. The
+00:37 idea was simple. Access tools anywhere,
+00:40 share data in the cloud, and always stay
+00:42 updated. And it made sense for
+00:44 businesses. But fast forward 20 years,
+00:46 and now even your to-do list apps $10 a
+00:49 month because it syncs across devices.
+00:51 Here's where it got messy. What began as
+00:53 convenience turned into corporate greed
+00:54 wrapped in minimalist UI. Every SAS
+00:57 product now comes with four pricing
+00:58 tiers, none of which include the one
+00:60 feature you actually need. Want calendar
+01:02 sync? That's the pro plan. Want dark
+01:04 mode? That's team tier. Want to export
+01:06 your data? Hope you enjoy the enterprise
+01:08 sales call experience. And don't even
+01:10 try using it for free. Your experience
+01:12 will be so neutered it's basically a
+01:14 demo reel for what you could have if you
+01:16 just gave up and paid. What inspired you
+01:19 to build a second Krusty Krab right next
+01:22 door to the original? Money. But it's
+01:24 not just the pricing. SAS companies
+01:26 figured out how to trap you
+01:27 psychologically. They know that once
+01:29 you've built your entire workflow,
+01:31 migrating to another tool is like moving
+01:33 out of a house you built with your bare
+01:34 hands. They add little touches to
+01:36 increase that stickiness. Email nudges,
+01:38 usage analytics, fear of loss prompts,
+01:41 even cancelling is a chore. You try to
+01:43 unsubscribe and suddenly you're in a
+01:44 guilt trip funnel with sad puppy eyes
+01:46 asking, "Are you sure you want to
+01:48 leave?" And it's not just the big guys.
+01:50 Every solo dev on Twitter is now
+01:52 launching their own SAS micro product.
+01:53 It's like the gold rush, but instead of
+01:55 gold, it's recurring revenue from a
+01:57 glorified spreadsheet. Someone builds an
+01:59 app that tracks your water intake, slaps
+02:02 on a
+02:02 $6.99 per month price tag, and calls it
+02:05 hydration as a service. Everyone's
+02:07 chasing MRR like it's a religion, and
+02:10 we, the users, are just tiny wallets
+02:12 with legs. So, you think, "Maybe I'll
+02:14 just self-host." You go full Linux
+02:16 wizard, spend a weekend setting up
+02:18 Docker containers, and feel powerful
+02:20 until the updates break everything, and
+02:21 you realize you've spent six hours
+02:23 configuring something that still doesn't
+02:25 have a working calendar view. Freedom is
+02:26 technically possible, but it comes at
+02:28 the cost of your time, your patience,
+02:30 and occasionally your sanity.
+02:32 What did it cost?
+02:38 Everything. And yet, all hope is not
+02:41 lost. There are still some ethical devs
+02:43 out there. ones who charge you once,
+02:44 give you lifetime access, and don't lock
+02:46 your data in a vault like it's a
+02:48 hostage. Tools like Obsidian or open
+02:50 source projects with real communities
+02:51 still exist. They may not have the
+02:53 fanciest dashboards, but at least they
+02:55 don't charge you monthly for a checkbox.
+02:57 So, yeah, SAS could have been the hero.
+02:59 Instead, it became the landlord of the
+03:01 internet, a beautiful scam that charges
+03:03 you to do what pen and paper used to
+03:04 handle for free. You're one of those
+03:06 heroes, aren't you?
+03:14 Not anymore.
+03:17 But hey, if you've ever paid for a
+03:18 subscription that made you feel
+03:20 personally offended, drop it in the
+03:21 comments. Misery loves company,
+03:23 especially when it's built monthly. So
+03:25 yeah, thanks for watching and don't
+03:26 forget to like and subscribe to become a
+03:28 fellow code head.

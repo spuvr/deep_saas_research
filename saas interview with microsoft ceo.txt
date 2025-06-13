@@ -1,0 +1,527 @@
+00:00 the energy usage they're thinking is
+00:02 going to pretty significantly affect our
+00:05 planet and agents need more of it than
+00:08 any workload previously but it's at a
+00:11 different unit of scale. What are you
+00:12 most excited about when the cost of
+00:14 intelligence approaches zero? You know
+00:17 right now to tame either inflation or
+00:19 improve economic growth we need some
+00:21 help. Do you ever see a future in which
+00:24 the operating system is similar where
+00:26 there's maybe no or very little
+00:28 underlying traditional code? Every layer
+00:31 of the tech stack has to be reimagined.
+00:34 You had previously said the software the
+00:37 application layer is going to collapse
+00:39 down into agents. And what what does
+00:41 that mean for vertical SAS companies?
+00:44 All right, Satia, thanks for chatting
+00:46 with me. Uh congratulations on
+00:48 everything you announced at Build. Um,
+00:51 yeah, I had a few questions. You've
+00:53 overseen very successful major
+00:56 transitions at Microsoft Cloud, the
+00:58 adoption of open-source, and now we're
+01:00 kind of in this this next one. With the
+01:04 rise of these incredibly powerful AI
+01:06 agents, how are you thinking about
+01:09 investing in that while also maintaining
+01:12 your kind of the current product suite
+01:13 that you have and the major changes that
+01:15 are coming to it? Yeah. First of all,
+01:17 thanks so much for uh being at uh our
+01:19 developer conference. You know, the way
+01:21 I think about it is um first you have to
+01:25 embrace what's new, right? And that's
+01:26 where I think even you know now that
+01:29 we're even two to three years in
+01:31 depending on how you count into this you
+01:33 know AI era and this agenting web era
+01:36 the patterns of what it means to build
+01:39 agents build apps is becoming clearer
+01:42 right so you have to really go look at
+01:45 the tech stack uh that you have uh that
+01:48 you built maybe for a previous workload
+01:51 um now needs to be really thought up
+01:54 from first principles for the new
+01:56 workload right so take even the
+01:58 infrastructure layer right obviously
+01:60 we're very very proud of the fact that
+02:01 we have 70 regions of Azure all around
+02:05 the world and then you say wow we now
+02:07 need to retrofit them or fit them uh to
+02:10 become AI factories right that's kind of
+02:12 what you need to do turns out that if
+02:15 you take even an app like chat GPT or
+02:17 copilot uh it definitely needs a lot of
+02:20 GPUs or AI accelerators but it also
+02:22 needs everything else it needs in fact
+02:24 tons of storage uh both in during
+02:27 training and inference. It needs a ton
+02:29 of compute, regular compute, not AI
+02:31 accelerated compute, in order to be able
+02:33 to for example have the environments for
+02:36 agents. So, interestingly enough, it
+02:38 turns out what we built over the last 15
+02:41 years may be more relevant now because
+02:44 agents need more of it than any workload
+02:47 previously, but it's at a different unit
+02:49 of scale. So, that's kind of what we
+02:52 have to do at the infra layer. Same
+02:53 thing with data, right? take data and
+02:55 you say well you know data has been
+02:57 always about take a database you said
+02:59 that's where you schematize people
+03:01 places things but now you can bring the
+03:04 intelligence layer to the data right a
+03:07 reasoning engine straight in like one of
+03:09 the coolest demos we showed was this
+03:11 Postgress which you know so modular that
+03:14 you can now mix and match in your SQL
+03:16 query an LLM response right I mean think
+03:18 about the query plan you can generate so
+03:21 I feel that every layer of the tech
+03:25 stack has to be re-imagined but it also
+03:28 means we can take some of the best work
+03:30 we've done over the last 15 years and
+03:32 have it compound for our developers uh
+03:35 so that they can get the benefits of it.
+03:37 So that's how we're thinking about it
+03:39 right which is how do we make sure uh we
+03:42 think about every layer of the tech
+03:43 stack in from a first principles
+03:45 perspective for the new AI workloads
+03:47 that are being built uh and then really
+03:49 stitch it together so that it meets the
+03:51 real world needs of customers. Yeah. So
+03:53 the the end users especially for
+03:55 products that people are so familiar
+03:57 with office 365 these products I assume
+03:60 are going to be changing so rapidly. So
+04:02 what what is that acceleration change in
+04:04 the Yeah, it's a fascinating thing,
+04:05 right? If I look at Office, right? There
+04:07 are I'd say three modes of Microsoft
+04:11 365. The first is the brand new mode
+04:14 which is I have this new UI for AI which
+04:17 literally is this new scaffolding uh
+04:20 which has chat which has uh search which
+04:24 has notebooks which is a place where I
+04:26 collect all these heterogeneous
+04:28 collections of data and do things like
+04:31 podcasts and audio overviews and all of
+04:33 that. Uh I have agents right like these
+04:36 researcher and uh analysts. So these are
+04:39 things that I can delegate tasks to and
+04:42 so on. It's so exciting to have all of
+04:43 that and I even have the copilot studio.
+04:45 So in other words, I can build agents,
+04:47 right? So that's the new thing which is,
+04:49 you know, like I now have an UI for AI
+04:52 and agents. Here's the other interesting
+04:54 thing. Teams takes all of that into
+04:57 multiplayer mode, right? All of those
+04:59 agents are available to me in my channel
+05:02 in my meeting, right? So teams becomes
+05:04 the scaffolding in which all of the AI
+05:06 now is working with me in multiplayer
+05:09 mode. And the third mode is my heads
+05:12 down just like how in GitHub copilot
+05:14 with VS Code I'm heads down coding away
+05:17 but I have agents that I can use. I'm
+05:20 heads down on an Excel spreadsheet and I
+05:22 have you know my copilot chat right
+05:24 there. Right? That is like having a data
+05:26 scientist next to me while I'm analyzing
+05:28 a spreadsheet. while I'm research
+05:31 writing a document I have a researcher
+05:33 right there the idea is we've turned
+05:36 every office canvas into an IDE with
+05:38 chat essentially if you think about it
+05:40 that way so in some sense I feel like
+05:44 the value of even the M365 system now
+05:47 has gotten to be more compounded uh
+05:51 because of intelligence getting built
+05:53 into all of these layers so I I I want
+05:55 to continue on that note a little bit
+05:57 you had previously said the software the
+05:60 application layer is going to collapse
+06:01 down into agents and I made a video
+06:04 about it called it SAS is dead it you
+06:06 know garnered a lot of attention um that
+06:09 was really cool thoughts about it but I
+06:11 want to hear you know the assertion is
+06:13 there's going to be the agent layer and
+06:15 then under that there's going to be the
+06:17 grounded database that the agents can
+06:19 read and write from and what what does
+06:21 that mean for vertical SAS companies
+06:24 what what how do they prepare themselves
+06:26 for this future yeah like all of us I
+06:28 think the the the the the way to go
+06:30 about it. I mean, even the demo we
+06:31 showed today, right? Literally, there
+06:33 was Dynamics 365 uh with essentially an
+06:36 MCP uh server that was used by Copilot
+06:41 Studio to orchestrate a multi- aent
+06:44 application that spanned CRM and many
+06:48 other systems of record uh and then
+06:51 completed essentially the orchestration
+06:53 of a complex business process, right?
+06:55 That seems to be here and now, right? I
+06:57 mean it's kind of clear as day that when
+07:00 you go about thinking about business
+07:02 process and business applications you
+07:04 have to compose yourself into something
+07:06 like that. Uh and so yeah that will mean
+07:09 pretty radical change if you all you
+07:11 thought was hey I'm the system of record
+07:13 or system of engagement or what have you
+07:15 and it's just uh about workflows on top
+07:18 of my data and that's the scope that's
+07:21 just not going to persist. So I think we
+07:22 have to all be open to participating in
+07:26 what is this new orchestration layer in
+07:29 the agentic web that will be essentially
+07:32 will have multiple backends right your
+07:34 SAS application will be one backend uh
+07:37 you better support something like MCP uh
+07:40 in order to be able to participate in
+07:41 the agentic web uh and then maybe even
+07:44 something like NL web could even reduce
+07:46 the friction of all these connectors
+07:48 right because if you think about
+07:49 enterprises you know you have a
+07:51 significant ificant sort of friction in
+07:53 how connectors work. Something like NL
+07:55 web could be massive change even inside
+07:57 the enterprise. And so I feel like yes,
+08:00 I think SAS applications we built may
+08:02 have to radically change in order to
+08:04 adapt themselves for this future. Yeah.
+08:07 And so these these uh let's just say
+08:10 these SAS companies, do you think
+08:11 they're going to be curators of this
+08:13 ground truth data for their customers
+08:15 and then the agents will be provided by
+08:17 platform companies like Microsoft? Yeah,
+08:19 I mean I sort of think about like it's
+08:21 unclear to me exactly how it all shakes
+08:23 out because in some sense all of us
+08:26 overstate the importance of one thing
+08:27 that we have today but the reality is
+08:29 when these platform shifts the value
+08:31 will anyway get created somewhere else
+08:33 right so this is where uh you know like
+08:36 at the end of the day what's the job to
+08:38 be done the job to be done is to
+08:40 complete a business process it's not
+08:42 about any one system of record and its
+08:44 curation uh or it's not about any one
+08:47 agent or one workflow It's about the
+08:50 entirety of it, right? So that to me is
+08:52 where the water is flowing and the
+08:55 question is how do you flow with it
+08:57 versus thinking that somehow I have this
+08:59 moat and I'm going to hold on to it or
+09:02 I'm going to build some sort of facade
+09:04 around it which has an agent head or
+09:07 what have you, but it's not the
+09:09 comprehensive view of what the customer
+09:11 in this case needs to, you know, get
+09:13 done. Yeah, I really like that you said,
+09:16 you know, different uh types of agents
+09:17 are going to be talking together.
+09:19 Different databases, it doesn't really
+09:20 matter. It's just an abstraction layer.
+09:22 Um, so that that all sounds really
+09:24 exciting. Another thing you mentioned,
+09:26 you had said in an interview that when
+09:28 you hire somebody and an employee,
+09:31 you're hiring them in the future uh and
+09:33 their basket of agents, which is
+09:35 fascinating to me. But I wanted to get
+09:37 some clarity on that because it seems
+09:39 like most likely the company the
+09:41 employer is going to want to own that IP
+09:44 the agents just like they would own
+09:45 traditional IP. So maybe you can add
+09:47 some clarity. Actually that's that's
+09:49 correct. In fact uh what you said is
+09:51 sort of our view right if I look at even
+09:53 today's announcements because what is
+09:55 the uh intellectual property of a
+09:58 company right uh even the work product
+10:01 of any one of us at work is the
+10:03 company's property and so that I think
+10:05 is going to be the case even with agents
+10:07 and that's one of the fundamental
+10:08 reasons why we extended the rails right
+10:12 where you now agents have an entry id uh
+10:15 you can manage conditional access uh for
+10:19 uh these agents uh just like you do with
+10:22 uh people inside of an organization
+10:25 perview right another super important
+10:26 thing if agents are going to have access
+10:29 to data it needs to be subject to the
+10:31 same data protection and data rights and
+10:34 so we are going to abs and security by
+10:36 the way you're going to manage the agent
+10:38 environment like an endpoint uh so
+10:40 that's why defender uh is going to make
+10:42 sure that there is no credential theft
+10:44 or what have you so absolutely thinking
+10:46 of all of the things we've done from
+10:48 identity management and security for
+10:50 people and their IT infrastructure is
+10:53 going to be done for agents and their IT
+10:55 infrastructure. Yeah, you know that
+10:57 makes a lot of sense and I also suspect
+10:59 a lot of people are going to build their
+11:00 own personal agents for their personal
+11:02 life and maybe do you see a future in
+11:04 which they are also bringing those
+11:06 personal agents into work and it's a
+11:08 great question. I mean the the system
+11:10 where you bring your own personal agents
+11:13 right uh has to be done in such a way
+11:16 that these two worlds don't have the
+11:18 data leakage right so that's the issue
+11:20 right which is you know let's even take
+11:22 the simple thing which is hey my email
+11:24 and my corporate email uh today they're
+11:26 two segregated things they're two
+11:28 identities and we know how to separate
+11:30 state out uh for both privacy reasons
+11:34 and for also intellectual property
+11:35 reasons right both of those are helpful
+11:38 I think something like that that's why
+11:40 even uh we believe in Entra and
+11:43 Microsoft account right so that's why we
+11:45 have copilot and Microsoft 365 copilot
+11:48 conflating the two even in terms of the
+11:51 user model uh is can be very confusing
+11:54 the reason why I pin uh edge with two
+11:57 profiles is helpful because I do it with
+11:59 Microsoft account when I as a as a user
+12:02 as an as an individual and I do this
+12:04 with entra when I'm working uh at
+12:06 Microsoft and it's a helpful
+12:08 demarcation to keep this you know the
+12:11 metal model simple otherwise I think by
+12:14 conflating it all I think you can really
+12:16 get up very tangled I think that makes a
+12:18 lot of sense so I I want to ask you
+12:20 maybe a a question about your vision so
+12:22 the cost of intelligence does seem to be
+12:24 dropping rapidly hopefully approaching
+12:27 zero I think it's going to be such a
+12:28 fascinating world in the future what do
+12:30 you think um what use cases do you think
+12:32 are going to open up what are you most
+12:34 excited about when the cost of
+12:36 intelligence approaches is zero. Yeah. I
+12:39 mean to me ultimately right when I look
+12:41 out there in the world uh do we need
+12:45 more abundance of something like
+12:47 technology like uh intelligence that can
+12:50 then ultimately drive productivity and
+12:53 economic growth. Absolutely right. I
+12:55 look around and say man you know right
+12:58 now to tame either inflation or improve
+13:01 economic growth we need some help like
+13:03 so this is you know high time. So if you
+13:06 sort of take that thing and take sort of
+13:08 the example we even shared at our
+13:09 developer conference as to what Stanford
+13:11 medicine was able to do for something
+13:13 really high stakes right like you know
+13:15 tumor board meetings and oncology and
+13:18 cancer care they were able to take all
+13:20 this technology and apply it in a real
+13:23 way where they were it was a multi-agent
+13:26 framework they used in foundry to
+13:28 orchestrate you know pathology clinical
+13:31 trials problemat data ultimately to have
+13:34 a better tumor board meeting and then
+13:36 have the data and the information from
+13:38 that go into PowerPoint into a teaching
+13:41 class or into teams for people to
+13:43 collaborate. That is to me what needs to
+13:47 happen. Healthcare is 20% of our GDP
+13:49 close to a lot of the expense is in this
+13:52 workflow. Uh and so if you know every
+13:55 provider out there can start improving
+13:57 their patient care and outcomes and
+14:00 reducing cost using AI that's going to
+14:03 have a profound impact in our societies.
+14:05 Uh and so that's what I'm really looking
+14:07 forward to. Yeah, I think the healthcare
+14:09 use cases I'm I'm extremely excited
+14:11 about hyperpersonalized healthcare. I
+14:13 already used uh Chad GBT co-pilot to
+14:16 answer questions about my own personal
+14:18 health. It is very very exciting and
+14:20 also some of the research uh that you
+14:23 showed off the uh immersion cooling.
+14:26 Yeah. Right. That was discover
+14:28 discovered. Yeah. It's so cool. Material
+14:30 science. There's there's just so much
+14:32 there. Um, so, uh, anecdotally I've
+14:35 heard from some of the younger
+14:36 generation that they're either avoiding
+14:39 AI altogether or or maybe just using it
+14:41 lightly and and specifically because the
+14:44 energy usage they're thinking is going
+14:46 to pretty significantly uh, negatively
+14:48 affect our planet and so so how how do
+14:52 you how does Microsoft think about that?
+14:53 What words of of confidence would you
+14:55 give to them? Yeah, it's a first of all,
+14:57 you know, the fact that the younger
+14:59 generation cares about this deeply is so
+15:02 so inspiring quite frankly because at
+15:04 some level um it is sort of the right
+15:07 push for all of us to be able to say
+15:09 okay whatever we're creating is
+15:12 fundamentally helping with these
+15:14 outcomes that matter to us in society,
+15:16 right? Whether it's in healthcare,
+15:18 whether it's in education, whether it's
+15:19 access to financial services, whatever
+15:21 the domain is, ultimately it's economic
+15:23 growth, it's economic prosperity and
+15:25 abundance. So let's take that as the
+15:27 first thing which is we're not doing
+15:29 this just for some tech accomplishment,
+15:30 but we're doing it to solve the
+15:33 challenges of people and planet. Then
+15:35 the second part is also important, which
+15:37 is we've got to do it in a sustainable
+15:40 way, right? It's sustainable abundance.
+15:42 Um and and then if that is the case then
+15:46 one of the equations I go back to is
+15:48 it's tokens per dollar per watt right
+15:51 the the fact that we are able to use
+15:55 software right as the most malleable
+15:58 resource to use energy in the most
+16:01 efficient way to generate the most
+16:04 amount of abundance which in turn then
+16:06 improves health and education and other
+16:08 outcomes is a good thing. uh and we just
+16:11 have to stay on it, right? The the
+16:13 reality is all of tech is what 2% 3% of
+16:16 sort of the grid power today or total
+16:18 power consumption. So it's minor but yes
+16:20 it'll double uh and so if it if it needs
+16:24 to double it needs to have the social
+16:26 permission to double uh it needs to
+16:29 create a lot more value in the real
+16:31 world. In fact that's one of the reasons
+16:33 why I feel like we as a tech industry
+16:35 need to be anchored on not just one
+16:37 product of ours that everybody's using.
+16:40 uh for doing fun things. It has to be in
+16:43 health care, in material science, in
+16:46 broad knowledge work in a small business
+16:49 getting productivity, right? Because
+16:51 that's what'll give us the social
+16:52 permission to continue to use the scarce
+16:55 resource called energy. Do that with in
+16:58 a sustainable way. We have some of the
+16:59 biggest buyers of alternative energy. Uh
+17:02 in fact, you could say the greatest
+17:03 subsidy out there for new projects is
+17:06 from, you know, people like us. uh we
+17:09 really want to make sure we continue to
+17:11 push on it but you know ultimately
+17:13 deliver tokens per dollar a watt such
+17:15 that it creates economic prosperity. I'm
+17:18 glad you said that. I'm going to tell
+17:19 the folks who are very nervous about the
+17:21 environmental impact what you said and
+17:22 I'll show them this video. So thank you.
+17:24 Um there there's there's definitely a
+17:27 major shift in computing architecture
+17:29 happening right now. The the line
+17:31 between deterministic and
+17:32 non-deterministic parts of the
+17:34 architecture are kind of getting
+17:36 blurred. Um, I saw this really cool demo
+17:38 a few months ago where they recreated
+17:40 the game Doom using a diffusion model.
+17:42 Every single frame was predicted. Do you
+17:44 ever see a future in which the operating
+17:47 system is similar where there's there's
+17:49 maybe no or very little underlying
+17:52 traditional code? Yeah, it's a great
+17:55 like we had a similar one like this muse
+17:57 model that we built was a world action
+17:60 model that we had built but we trained
+18:01 it on train you know on gaming data and
+18:03 you know it starts to do essentially you
+18:05 can have an Xbox controller as actions
+18:07 that are then used to generate the next
+18:09 scene which is sort of pretty pretty
+18:11 it's kind of like robotics you can think
+18:13 of is like that and gaming is like that
+18:15 and so yes everything is uh generated so
+18:18 to speak. um the operating system, you
+18:22 know, to me this idea
+18:25 that you know sometimes I think we even
+18:29 overstate the determinism of what we
+18:31 call deterministic systems right because
+18:33 after all you take a software program
+18:36 you can't prove it right I mean that's
+18:39 sort of one of the fundamental
+18:40 challenges of computer science that uh
+18:42 it's um and so therefore I think we yes
+18:46 it's a stochastic system but this
+18:48 stochastic system does need to work in
+18:51 deterministic ways uh that we can at
+18:53 least like you know inspect quite
+18:56 frankly what Elon said in the keynote
+18:58 when I interviewed him he said hey we
+18:59 got to understand the physics of
+19:01 intelligence is actually a good way to
+19:03 think about it right which is we have to
+19:04 somehow get back to a place where when
+19:07 we stitch these complex systems there is
+19:09 some way for us to understand the
+19:12 physics of these complex systems uh and
+19:15 then bound them right sandbox them and
+19:18 what have Right? I think that that's
+19:19 what we will have to do even on an
+19:20 operating system. But you when I look
+19:22 back at it, you take the coding agent
+19:24 that we just launched. Interestingly
+19:26 enough, the coding agent has an
+19:27 environment uh underneath GitHub
+19:29 actions. You're really putting a virtual
+19:31 machine and then you're really setting
+19:33 the boundaries of that virtual machine,
+19:34 right? Which is, hey, does it have
+19:36 internet access or not? You have to
+19:37 control it. If it's going to have access
+19:39 to tools with MCP uh servers, you have
+19:42 to control it. Uh and then there's a
+19:44 full audit log of all of that. Um and so
+19:47 I think that that's how we will learn
+19:49 how to essentially mix a deterministic
+19:52 system so to speak which a software
+19:54 system that we built with a lot of
+19:56 imperative code and you know uh and this
+19:58 agent uh to couple together and then
+20:02 have the interaction itself be something
+20:04 that we can monitor. Yeah. I um so so
+20:08 that it's really cool because you said
+20:09 in the keynote we're kind of beginning
+20:11 the middle innings of this transition.
+20:14 So I really think uh it's a really
+20:16 interesting time to see where that blend
+20:18 of different types of software go. Thank
+20:20 you so much for meeting with me. I
+20:21 appreciate it. Thank you so much. Such a
+20:22 pleasure. Thanks for coming and spending
+20:24 the time and look forward to being in

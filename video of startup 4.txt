@@ -1,0 +1,441 @@
+My Apps Make $4.5M/Year With $0 Marketing
+
+00:00 my Shopify app Kaching Bundles is
+00:02 currently making me $4.5 million a year
+00:05 and we spend almost zero dollars on
+00:07 marketing how does this guy make over $4
+00:10 million a year without spending
+00:11 thousands of dollars on marketing well
+00:13 the answer is something you probably
+00:15 wouldn't expect all of our growth is
+00:17 coming either from or Eric started his
+00:21 journey as a designer making just $2 an
+00:24 hour then he stumbled onto an
+00:26 opportunity that would change his life
+00:27 forever i think there's still a lot of
+00:29 opportunity building in platforms and
+00:31 I'm personally researching i spent over
+00:34 an hour talking to Aricos about all his
+00:37 different Shopify apps and how anybody
+00:39 can start building these things from
+00:40 scratch and good news he shared
+00:42 everything including how to find
+00:44 platform specific ideas to build how to
+00:47 run an async team with 90% margin and
+00:50 the unique marketing strategy that
+00:52 helped him grow to $4.5 million a year
+00:55 in just two years all right let's get
+00:57 into it i'm Pat Walls and this is
+00:60 Starter
+01:03 Story welcome Ericos welcome to the
+01:05 channel tell me about who you are and
+01:07 what business that you built hi guys so
+01:10 my name is Ericas i'm from Lithuania
+01:12 originally currently living in Paris and
+01:15 I'm a designer turned entrepreneur
+01:17 building Shopify apps together with my
+01:20 co-founder and we're currently at 4.5
+01:23 million annual recurring revenue what's
+01:26 really cool about our business is that
+01:28 we're 90% profitable okay if you could
+01:31 give me a little bit of a breakdown of
+01:34 apps that you built so currently we have
+01:38 uh five apps in total our first app in
+01:41 the discount category was Kaching
+01:43 Bundles and we scaled it to around 400k
+01:46 monthly recurring revenue currently uh
+01:49 then we launched Kaching post purchase
+01:50 upsell after that we launched Kaching
+01:53 pop-up upsell and right now few weeks
+01:55 ago we launched Kaching uh card drawer
+01:58 upsell all of these apps are in the
+02:00 discount category serving customers that
+02:02 want to increase their average order
+02:04 value within Shopify since our launch in
+02:07 2022 August we already made more than
+02:10 400 million in additional revenue for
+02:13 all of the merchants that are using our
+02:15 apps that's awesome in building these
+02:17 businesses what have you learned what is
+02:19 the big opportunity on building apps on
+02:21 platforms the thing I noticed about the
+02:24 app developers is that there's like solo
+02:27 developers indie hackers and I thought
+02:30 that they lack great user experience all
+02:33 of their apps are kind of technical and
+02:36 a bit complex for for regular users and
+02:38 the other type of apps was VCbacked or
+02:42 like huge corporations the user
+02:44 experience were uh was great but the
+02:46 problem about them was that they
+02:49 actually move pretty slow if if there's
+02:51 a feature lacking it would take probably
+02:53 months or or maybe even a year to launch
+02:56 something new so that's how I kind of
+02:58 knew that there is an opportunity for me
+03:01 to be in that ecosystem and to try to
+03:03 beat all of those solid developers i
+03:06 wasn't sure that I will be able to
+03:08 compete with high bigger companies
+03:10 backed up by VCs and so on like a year
+03:13 or two years after doing Shopify apps I
+03:15 realized that it's possible to compete
+03:17 with them as well okay let's go a bit
+03:20 into your backstory here what did you do
+03:22 before entrepreneurship and what got you
+03:24 into building stuff yeah so right after
+03:27 finishing my school I joined a local web
+03:30 design agency and I started working for
+03:32 $2 per hour since day one I was always
+03:36 thinking how can I 10x my earnings and
+03:39 uh I quickly I realized that if I want
+03:42 to earn more I have to work like for
+03:44 myself i I I have to start freelancing
+03:47 so that's what I did in 2016 or 2015 I
+03:51 guess 3 to 4 years later while I was
+03:53 still freelancing I was building
+03:56 products on the side i had a client a
+03:58 startup who needed a landing page so
+04:01 what I was doing I was just browsing the
+04:03 internet and looking for inspiration and
+04:05 that's how I stumbled upon Shopify
+04:09 partners page i bookmarked it and later
+04:11 on when I looked into it I saw uh a
+04:15 section which said that top 25% Shopify
+04:19 app developers are making almost 300k a
+04:22 year and in my eyes it was like oh my
+04:25 god it's it's huge because what I was
+04:27 making with my freelance work was was
+04:29 much less having all of the experience
+04:31 in Shopify I knew how how those apps
+04:34 were and that's how I realized that I
+04:36 have to build something myself in the
+04:38 ecosystem cool okay the Shopify app
+04:42 opportunity how did you find this idea
+04:44 and generally how do you think about
+04:45 finding ideas when I was thinking of
+04:48 what do I want to build in the Shopify
+04:50 app marketplace I I already had three
+04:53 main criteria so first one was it has to
+04:57 be pretty easy to build i have to build
+04:59 it in like couple of months no more than
+05:02 that the second criteria was pretty
+05:04 broad market i wanted to build something
+05:07 that could be useful for any Shopify
+05:09 store because it would be a lot easier
+05:12 to market it and I could use all of my
+05:14 clients that use Shopify and so on the
+05:17 first criteria was I needed low
+05:20 competition so that's my main my main
+05:22 setup how how I differentiate good ideas
+05:26 versus bad ideas nice so on the topic of
+05:29 uh good ideas and bad ideas let's talk
+05:31 about validation how do you know when
+05:33 your idea is validated and what has that
+05:36 looked like for your apps before before
+05:39 building it I tried to validate it with
+05:42 basically talking to users you know I
+05:44 joined various Discord communities of
+05:47 drop shippers i joined e-commerce
+05:50 Facebook groups i posted various
+05:52 Facebook posts in in those groups and
+05:55 one of the posts where I I had a
+05:57 screenshot of my not yet published app
+05:60 it was just a design and it kind of blew
+06:02 up there was more than 100 likes and a
+06:05 lot of comments asking you know where
+06:07 can I don't download this app because
+06:09 they thought that it's already live so
+06:12 that was my first validation that this
+06:14 product is needed and and yeah it it
+06:17 could be successful if you can build a
+06:19 landing page or something to try get uh
+06:22 get the emails of your customers that's
+06:24 great if you can even charge for it
+06:27 maybe make a pre-order or something
+06:29 that's that's even better because you
+06:31 already know that people will pay money
+06:33 for it all right I got to stop you real
+06:35 quick and zoom out ericos built an
+06:37 insane business 4 million a year on top
+06:40 of the Shopify app store without
+06:41 spending any money on ads and that's
+06:44 maybe the secret building on top of a
+06:47 marketplace you don't need a big
+06:48 audience you don't need to spend money
+06:50 on ads and there's a built-in customer
+06:52 base just waiting for you to solve their
+06:54 problems the only problem with that is
+06:56 that Shopify's developer ecosystem is
+06:59 I'll admit pretty mature in other words
+07:02 that means there's a good amount of
+07:03 competition on the platform so that begs
+07:05 the question what's the next Shopify
+07:07 what's the under the radar marketplace
+07:09 where I think developers should be
+07:11 building right now well one place I
+07:13 think is interesting is the monday.com
+07:16 marketplace we partnered with them on
+07:18 this video because they're putting real
+07:20 energy behind expanding the marketplace
+07:22 investing in the platform supporting
+07:24 developers and actively looking for more
+07:27 builders to help meet their growing
+07:29 customer demand now is the time to get
+07:31 in early and make your mark while it's
+07:34 still easier to stand out they've got
+07:36 over 245,000 customers across over 200
+07:40 industries and 90% of their enterprise
+07:43 customers use monday.com apps enterprise
+07:47 that's the big bucks what's also cool is
+07:49 they have good APIs clean docs solid
+07:52 SDKs and a team dedicated to helping you
+07:55 grow and make money if this tickles your
+07:57 fancy well with monday.com we put
+07:60 together this free download breaking
+08:02 down a bunch of stats about the
+08:04 opportunity here who their users are and
+08:06 what kind of problems they really need
+08:08 solved and here's a pro tip take some of
+08:11 that info and plug it into your favorite
+08:13 LLM and I bet it will give you some
+08:15 really cool ideas for what to build if
+08:17 you want to download just click the
+08:19 first link in the description fill out
+08:21 the quick form and sign up for your
+08:23 developer account it's all 100% free to
+08:25 get started i'm stoked that we got to
+08:27 partner with monday.com in this video
+08:29 because Aeros is an example of what
+08:31 happens when you build on a marketplace
+08:34 all right let's get back to the
+08:35 interview you're a designer not a
+08:37 developer how do you go about actually
+08:39 building these products what's your
+08:40 process to go from zero to one with a
+08:42 new idea yeah so when I'm when I'm
+08:45 designing things the first thing I look
+08:48 into is competitors if there's already
+08:51 competitors in space uh that's a good
+08:54 thing because you can dig into deeper
+08:56 and and see how they do like see their
+08:59 user experience just go through it and
+09:02 I'm taking notes what I really like
+09:04 about it and what I dislike about it and
+09:07 after that I I have a clear image of how
+09:11 my app could look like so that I could
+09:14 fairly say that it's objectively better
+09:17 than my competitors and to make uh my
+09:21 chance for success higher I have to find
+09:24 a co-founder i think finding a
+09:26 co-founder is is pretty much similar to
+09:29 doing sales because you have to sell
+09:31 someone an idea that you can make a
+09:34 successful business and you just need
+09:36 their help that's what I was trying to
+09:38 do you know I went into a local
+09:41 developer group in Facebook i made a
+09:43 huge post i and I mentioned that you
+09:45 know first of all I have Shopify
+09:48 experience second I'm a great designer
+09:50 with years of experience so I can
+09:52 provide a great user experience which
+09:54 will increase our chance for success
+09:57 third I have all of those clients
+09:59 already using Shopify which we can sell
+10:02 our Shopify app to and with all of those
+10:04 things you know I think I'm increasing
+10:06 my chance for for finding a right fit
+10:10 and and that's basically h how I found
+10:12 my co-founder let's go to the next
+10:14 section here i want to talk about
+10:15 marketing uh how do you go from Shopify
+10:18 app to real users and real paying
+10:20 customers when you are just a new app
+10:23 you have zero users you have nothing
+10:25 you're right at the bottom of the app
+10:28 store listings so I knew that we need to
+10:31 onboard as many users as we can manually
+10:35 so yeah I just I just went to all of the
+10:38 communities i just went to all of my
+10:40 clients all of my friends that are using
+10:42 Shopify and asked them to install our
+10:45 app and try it for themselves i made the
+10:47 app free and this way you can get more
+10:50 installs and of course more installs
+10:52 then convert to to more reviews and of
+10:55 course it drives more revenue then and
+10:57 it helps you know to improve your
+10:59 product further because you get all of
+11:01 this feedback okay I want to dive into
+11:04 some of the dirty details about this
+11:06 reviews thing because I think that this
+11:08 is it's simple it sounds simple but it's
+11:10 actually genius so let's go a little bit
+11:13 deeper into the customer support and
+11:15 review strategy that really did change
+11:18 your business yeah so once we said that
+11:21 it's crucial for us to get those
+11:24 five-star reviews we optimized all of
+11:26 our processes towards it so first of all
+11:30 our product within our product you
+11:32 straight away we just ask
+11:39 for then we have all of these uh monthly
+11:42 emails so every month we're sending a
+11:45 monthly email in which we uh show how
+11:48 much revenue this app brought to you and
+11:51 in that email we also ask for review i
+11:54 think around 95% of our reviews for for
+11:58 our apps come from customer support our
+12:01 customer support is is topnotch all of
+12:03 our customer support agents are really
+12:06 technical so they can dig into your code
+12:08 and and fix things and yeah we provide
+12:11 24/7 customer support right now nice and
+12:15 now that you have a team you realize
+12:17 still how important this is and I
+12:19 realize that you have like a little bit
+12:20 of a system that where you gamified
+12:22 reviews can you talk more about that so
+12:24 recently I introduced a gamified bonus
+12:27 system to our customer support team and
+12:30 right now we're tracking who gets uh
+12:32 more reviews we have the monthly
+12:35 leaderboard and uh we we have all of
+12:37 these different raffles and actually my
+12:40 favorite B bonus is uh a persuader of
+12:43 the month and what we do is we basically
+12:46 calculate the conversion rate of how
+12:49 many uh times you ask for a review and
+12:51 how many reviews you get and I think it
+12:54 really helps uh those agents bring more
+12:57 reviews and of course incentivizes them
+12:59 because they get bonuses for for each
+13:02 review cool okay okay well let's dive a
+13:04 little bit into monetization pricing and
+13:07 conversion how did you make the first
+13:09 dollar with cashing apps and how did you
+13:12 get those first users when we got our
+13:14 initial reviews when we started ranking
+13:17 for for specific keywords uh that's when
+13:20 we introduced our monetization we
+13:22 introduced a subscription model uh later
+13:25 on we introduced some tiers so like the
+13:28 more you use our product the the the
+13:30 higher price you pay nice and is there a
+13:34 kind of a strategy that you think about
+13:35 now every time you go to launch a new
+13:37 app I always launch it for free because
+13:40 it reduces friction of installs and as
+13:42 soon as I start getting organic installs
+13:45 I grandfather all of the users that
+13:47 already using uh our app so that they
+13:49 wouldn't need to pay and I monetize only
+13:52 the new users and yeah we always uh
+13:56 offer free trial that that also helps
+13:59 and we offer full refunds no question
+14:01 asked because I think the risk of
+14:04 getting onestar review is is is just is
+14:07 just too big that that was awesome uh
+14:10 next question is let's talk about tech
+14:12 stack uh what kind of tools or languages
+14:14 do you use to build and run this
+14:16 business yeah so languages wise I I will
+14:19 not tell much because I'm I'm not
+14:21 technical but uh in our organization we
+14:24 primarily use Slack for for our
+14:26 communication then for our customer
+14:28 support we use intercom then we use uh
+14:31 features.vote for gathering feature uh
+14:34 suggestions so every user can go to that
+14:37 board and suggest a feature or just
+14:39 upvote for other features that they
+14:41 think that we need to implement another
+14:43 tool that we're using is linear uh so we
+14:46 we use it internally for our task
+14:48 management last but not least we use
+14:50 Mantle you have everything Shopify
+14:53 related there you you can set up
+14:55 affiliate partnerships uh you you can
+14:57 see all of the metrics uh all of the
+14:60 funnels uh customer management and so on
+15:02 since day one our uh profitability was
+15:05 around 90% expenses wise we we always
+15:09 try to stay very very lean and and I
+15:12 hope we will stay lean in the future as
+15:14 well cool that's amazing let's move on
+15:17 to the next question more the lifestyle
+15:19 side of things can you give me what the
+15:21 day in the life looks like for you a
+15:23 Shopify app developer making millions of
+15:25 dollars per year uh what does your
+15:26 typical day look like yeah so I get up
+15:30 whenever I get up i I don't set any
+15:32 alarms uh I check my emails uh while
+15:36 still in bed i I scroll some Twitter
+15:38 like probably everyone else in the world
+15:41 when I have my to-do list I always try
+15:44 to diff differentiate like quick wins
+15:47 something that I can do in like up to 30
+15:49 minutes and all of the other stuff is is
+15:52 is the harder stuff that that I focus on
+15:54 later on i I love the lifestyle i I love
+15:58 what I do and I don't feel like working
+16:00 i I feel like I'm doing something i'm
+16:03 really passionate about which which
+16:05 really helps because I'm you know I'm
+16:07 not counting time at all that's awesome
+16:09 last question that we always ask uh all
+16:11 founders on the starter story channel
+16:13 what advice would you give to someone
+16:15 looking to start their own business and
+16:17 start their own thing online so I think
+16:19 that at start two people are are enough
+16:23 you just have a designer who does all
+16:25 all of the product stuff you have a tech
+16:27 guy and and you're good to go because
+16:30 you will be doing all of the customer
+16:32 support yourself to know that uh what
+16:35 your clients are struggling with and
+16:37 yeah once you start getting more tickets
+16:39 and once you start growing and and and
+16:41 scaling your product then you can start
+16:44 hiring customer support and then you can
+16:46 start you know scaling scaling your team
+16:49 and uh yeah another ad- advice I I could
+16:52 give is probably to hang around other
+16:54 people that are building because uh you
+16:57 know community is is really is really
+16:59 helping because you you get to know
+17:01 people you can learn from their mistakes
+17:04 and uh yeah maybe you can even you know
+17:07 find a co-founder in those communities
+17:09 and and so on that's it thank you uh
+17:12 Ericos for coming on the channel sharing
+17:15 your business that makes millions 90%
+17:17 profit margin is amazing and I can't
+17:19 wait to see you hit 10 million and take
+17:21 it further so thanks for coming on
+17:22 thanks for having me ericos is the
+17:25 perfect example about how a designer and
+17:27 a builder can turn a simple idea into
+17:29 thousands of dollars but that came with
+17:31 knowing the right information for him it
+17:33 was about Shopify and finding the right
+17:36 problem to solve well imagine there was
+17:37 a place that gave you this problems to
+17:40 solve blueprints for building and the
+17:42 marketing strategies that turn simple
+17:44 ideas into million-dollar online
+17:45 businesses that's what we have at
+17:47 Starter Story a library of over 4,000
+17:49 case studies and business idea
+17:51 breakdowns where you can access this all
+17:53 data backed by real entrepreneurs so if
+17:56 you're serious about building a
+17:57 profitable side project like Aricos head
+17:59 to the link in the description and we
+18:01 will give you 52 micro SASS ideas for
+18:03 free just like Aricos so you can get
+18:06 started on your journey much love and
+18:08 I'll see you in the next one peace
